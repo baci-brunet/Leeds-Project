@@ -2,6 +2,16 @@ Sprint-5 ()
 
 Tasks:
 
+1. Assemble a subset of firm names that are unique. Manually write regex search term for each of the terms.
+2. Use the cleaned firm file of 3000 firms and regex terms to find mentions of firm names in the raw corpora files.
+3. Grab context windows by timestamp (2 minutes before and 2 minutes after) and run them through a sentiment analyzer (vaderSentiment)
+
 Files:
 
+1. Summit_Scripts/ (Not on the github -- on Summit SC Repo): Separates the files on a yearly basis and runs them through the matching pipeline in parallel from start to finish
+2. reformat.ipynb: Formats all of the output files according to sponsors request.
+3. sentiment_analyzer.ipynb: Runs the context sentences through vaderSentiment and adds polarity scores to each mention in output files.
+
 Output Files:
+
+A folder containing all the output from matching formatted according to sponsors request.
