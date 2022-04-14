@@ -1,0 +1,3215 @@
+Raw Text Match,Spacy Match,Spillover (in raw match but not in spacy match)
+audience,fox,audience
+facebook,nasdaq,planet fitness
+west,nike,ball
+twitter,boeing,sleep number
+now,intel,new home
+joint,No Matches,homes
+box,eastern,dana
+planet fitness,apple,lindsay
+square,spirit airlines,crush
+line,microsoft,ability
+snap,dow,local
+best,bank of america,cascade
+southern,general motors,spire
+fox,exxon mobil,determine
+dow,starbucks,parkway
+health,gannett,rogers
+courier,visa,finish line
+eastern,new york times,financial institutions
+energy,time warner cable,stamps com
+ball,hormel foods,lockheed martin
+unit,barnes & noble,woodward
+team,sony,news new
+pool,chase,pike
+waters,dell,amazon com
+guess,aol,nutrisystem
+aware,general electric,coherent
+orange,yahoo,dover
+sleep number,citigroup,lendingtree
+move,walmart,hanger
+netflix,american international group,intest
+apple,american express,hot topic
+new home,ann,exa
+homes,nokia,tuesday morning
+chase,united therapeutics,workday
+switch,costa,first national
+buckle,orange,designer brands
+dana,humana,cars com
+lindsay,directv,pantry
+crush,cae,monro
+ability,mcdonalds,pinterest
+chubb,kt,cowen
+graham,northrop grumman,lands end
+progressive,norfolk southern,new gold
+bandwidth,southwest airlines,my size
+local,union pacific,argan
+continental resources,western union,beam
+cascade,ebay,knoll
+citizens,facebook,con way
+new york times,tesco,No Hits
+target,hershey,escalade
+sony,carnival,constant contact
+aflac,caterpillar,tapestry
+home depot,energy,red hat
+imax,coca cola,citizens first
+huntsman,united parcel service,rollins
+boise,adt,under armour
+popular,verizon communications,conversant
+clorox,hyatt hotels,whirlpool
+kirby,target,cubic
+spire,equifax,telus
+ennis,crane,american independence
+intel,kellogg,3m
+ann,quantum,fluent
+exxon mobil,aflac,knowles
+yahoo,harley davidson,brunswick
+determine,caribou coffee,dicks sporting goods
+godaddy,abercrombie & fitch,elastic
+parkway,johnson & johnson,reeds
+discovery,polaris,oshkosh
+rogers,nic,vapor
+staples,mattel,parsons
+finish line,masco,rocket fuel
+banner,dolan,snap on
+financial institutions,delta air lines,resonant
+stamps com,pfizer,urban outfitters
+lockheed martin,west,five 9
+woodward,procter & gamble,wd 40
+news new,now,thestreet
+jones group,regal entertainment group,aecom
+directv,revlon,international speedway
+pike,meredith,igate
+kellogg,orbital sciences,veru
+allstate,cts,ruby tuesday
+general electric,pinnacle foods,radioshack
+freshpet,itt,intersections
+amazon com,northwestern,clps
+express,kyocera,brp
+gap,cray,forward air
+anthem,biogen,raymond james financial
+itt,nts,immersion
+hasbro,dow chemical,pall
+lear,alphabet,otter tail
+general motors,illinois tool works,digital generation
+cactus,netflix,national research
+nutrisystem,hawkins,meridian
+nasdaq,pepsico,ambient
+boeing,kla,one gas
+dell,sonic,cabot
+deluxe,xp,aes
+dts,health,city holding
+apache,newport,hollywood media
+united technologies,mastercard,harmonic
+coherent,ihs,arctic cat
+coca cola,edison international,domo
+canon,cache,invacare
+fitbit,express,key technology
+mcdonalds,smithfield foods,skywest
+carnival,home depot,profound medical
+starbucks,saks,washington federal
+erickson,american electric power,hilton grand vacations
+centurylink,trulia,intermec
+truecar,shake shack,canaan
+tesla,,first united
+dover,unilever,griffon
+microsoft,volcano,cerner
+gopro,pg & e,lifelock
+lendingtree,cisco systems,gogo
+walmart,marcus,fortis
+visa,allstate,everyday health
+cree,maximus,canopy growth
+brady,united technologies,sina
+toyota motor,imax,blackline
+sears holdings,national healthcare,market leader
+volcano,thomson reuters,dennys
+premier,intuit,trivago
+brinks,cgi,fortress biotech
+cache,general dynamics,exponent
+spirit airlines,spectra energy,z boy
+delta air lines,bed bath & beyond,time new
+hanger,huntsman,applied materials
+oracle,adobe,actua
+xp,lyft,penumbra
+interface,united states energy,buffalo wild wings
+intest,general mills,anadarko petroleum
+dow chemical,panasonic,communications systems
+qualcomm,kbr,actuate
+hot topic,eastman kodak,care com
+seaboard,galapagos,first financial
+dolan,sears holdings,dominion energy
+exa,yum brands,fresh market
+tuesday morning,discovery,broadvision
+western union,neff,fastly
+hess,knight capital group,active power
+workday,tyson foods,rite aid
+cintas,franklin electric,dropbox
+first national,southern,first community
+designer brands,idt,transunion
+humana,blackstone group,potbelly
+cars com,donaldson,whole foods market
+voya financial,tenet healthcare,reis
+pantry,universal health services,live nation entertainment
+monro,citizens,cdi
+pinterest,genesco,national instruments
+quantum,emc,books a million
+emeritus,cinemark holdings,reald
+costa,xo group,arch coal
+mylan,harris interactive,novan
+cowen,hca healthcare,tennant
+alphabet,wex,cabelas
+meredith,international paper,rli
+hawkins,campbell soup,belo
+marcus,emeritus,zep
+american apparel,caesars entertainment,primerica
+lands end,nucor,retailmenot
+caterpillar,office depot,avista
+advisory board,nvidia,2 u
+maximus,occidental petroleum,kimberly clark
+new gold,kraft heinz,orbit international
+kt,tesla,career education
+cgi,advisory board,ptc
+northwestern,cactus,blue earth
+aarons,wayfair,black hills
+crane,guess,green dot
+my size,markel,orbital atk
+kaman,twitter,federal signal
+argan,xcel energy,trueblue
+yelp,kaman,curis
+fedex,ucp,kinder morgan
+beam,cummins,tns
+echelon,western digital,rpc
+knoll,gopro,sealy
+mattel,carvana,five below
+nn,petsmart,palo alto networks
+con way,popular,bemis
+No Hits,united rentals,koss
+111,texas instruments,stepan
+escalade,unisys,first capital
+adobe,gartner,slm
+american express,roku,ishares
+constant contact,philip morris international,allergan
+national security group,mgm resorts international,innerworkings
+tapestry,apollo global management,genuine parts
+safeway,kemper,joy global
+colony capital,fat brands,black knight
+lyft,fedex,wendys
+newport,banner,libbey
+red hat,dexcom,sothebys
+ralph lauren,panera bread,stoneridge
+citizens first,kansas city southern,electronic arts
+autozone,paychex,retail value
+rollins,marathon petroleum,health net
+neff,american outdoor brands,dollar tree
+dell technologies,freshpet,laureate education
+under armour,sinclair broadcast group,south state
+international paper,nextera energy,bluefly
+corning,cheesecake factory,carbon black
+shake shack,usg,national commerce
+southwest airlines,phi,skyworks solutions
+conversant,ferro,irobot
+whirlpool,safeway,cable one
+johnson controls,nci,telecommunications systems
+fmc,uber technologies,shotspotter
+american resources,godaddy,simpson manufacturing
+cubic,tribune publishing,american public education
+alcoa,graco,vermillion
+telus,groupon,american eagle outfitters
+ebay,hubbell,gaia
+chewy,continental resources,elong
+united rentals,carmax,home properties
+nic,atmos energy,alleghany
+loews,sysco,moodys
+american independence,reynolds american,equity residential
+union pacific,hp,kior
+cae,frontier communications,saia
+nike,seaworld entertainment,community financial
+3m,move,kirklands
+fluent,odyssey marine exploration,beyond air
+panera bread,mongodb,multi color
+exelon,elizabeth arden,precision drilling
+,national security group,las vegas sands
+knowles,truecar,power one
+gartner,synchrony financial,magna international
+harley davidson,alcon,ameriprise financial
+carters,newlink genetics,baozun
+brunswick,macys,sapient
+scholastic,ansys,funko
+nordstrom,valley national bancorp,evergy
+cheesecake factory,dominos pizza,bojangles
+dicks sporting goods,kelly services,sanofi
+blue bird,vf,chart industries
+pfizer,gap,neenah
+blackrock,makita,clearfield
+elastic,sabre,core laboratories
+saks,ericsson,online resources
+donaldson,american resources,moderna
+reeds,erickson,bio reference laboratories
+tivo,boise,student transportation
+hp,salem media group,danaher
+sonic,line,life time fitness
+oshkosh,stein mart,texas roadhouse
+unisys,nn,kroger company
+vapor,111,boston beer
+catamaran,globalstar,big lots
+phillips 66,zoom video communications,bank first
+parsons,clorox,appian
+aol,diamondback energy,upwork
+citigroup,questar,icu medical
+rocket fuel,iheartmedia,andersons
+ppl,abbott laboratories,thermo fisher scientific
+nokia,cardinal health,unifi
+rosetta stone,gilead sciences,bloom energy
+dillards,apache,national interstate
+amgen,amgen,dmc global
+snap on,aveo pharmaceuticals,on deck capital
+resonant,bristol myers squibb,cvs health
+urban outfitters,novavax,verisign
+five 9,nxt,china fund
+wd 40,best,urban one
+campbell soup,l brands,air t
+masco,globe life,general finance
+thestreet,seaboard,opentable
+aecom,courier,datalink
+international speedway,toyota motor,educational development
+crocs,cintas,stage stores
+unitedhealth group,autozone,st joe
+igate,vca,masimo
+veru,jones group,x financial
+hershey,ashford,citizens holding
+polaris,molina healthcare,equillium
+krispy kreme doughnuts,peabody energy,interphase
+bancorp,anthem,west marine
+tyson foods,tripadvisor,evercore
+trimble,progressive,real industry
+sabre,joint,at home group
+linkedin,qualcomm,genesis healthcare
+mcclatchy,tredegar,docusign
+ruby tuesday,pitney bowes,headwaters
+apollo global management,jetblue airways,voltari
+radioshack,chesapeake energy,stars group
+intersections,knight transportation,dialogic
+clps,churchill downs,forty seven
+brp,nordstrom,cango
+nvidia,graham,steel holding
+forward air,colony capital,servicenow
+raymond james financial,raytheon,daily journal
+bank of america,kirby,solarwinds
+caribou coffee,dillards,noble energy
+vca,dts,central federal
+immersion,yelp,ecotality
+howard hughes,avis budget group,alkaline water
+roku,lincoln national,ehealth
+cummins,zipcar,qumu
+pall,jamba,aaon
+otter tail,vail resorts,document security systems
+groupon,illumina,mobile mini
+first foundation,nps pharmaceuticals,sherwin williams
+digital generation,emerson electric,instructure
+national research,celgene,yandex
+meridian,health management associates,global payments
+northrop grumman,kb home,lo jack
+revlon,plexus,family dollar stores
+state street,louisiana pacific,conns
+bristol myers squibb,shaw communications,joyy
+raytheon,texas industries,angies list
+ambient,northern trust,intuitive surgical
+one gas,franklin resources,edison nation
+cabot,rockwell automation,reading international
+phi,cys investments,resource america
+ashford,baidu,eplus
+etsy,supervalu,hillenbrand
+viasat,aeropostale,akorn
+virgin america,oracle,crumbs bake shop
+galapagos,teradyne,destination maternity
+aes,rpx,cosi
+ihs,lennar,mastec
+exar,comerica,bat group
+stryker,nrg energy,almost family
+office depot,cvr energy,livent
+city holding,penske automotive group,site centers
+lennar,chegg,aegon
+hollywood media,johnson controls,lakeland industries
+ansys,xilinx,motorola solutions
+stein mart,first horizon national,1 800 flowers com
+equifax,spx,build a bear workshop
+visteon,stanley black & decker,9f
+mastercard,ross stores,support com
+metlife,trinity industries,shutterfly
+century aluminum,church & dwight,advance auto parts
+harmonic,honeywell international,f 5 networks
+nucor,zynga,carmike cinemas
+arctic cat,posco,summer infant
+domo,nomura holdings,plum creek timber
+invacare,toll brothers,intergroup
+key technology,dr horton,extreme networks
+skywest,canon,otonomy
+profound medical,sandridge energy,ceres
+blackstone group,matthews international,idex
+churchill downs,new york community bancorp,ooma
+washington federal,morningstar,equity one
+hilton grand vacations,united microelectronics,amc networks
+molina healthcare,prudential financial,omnicare
+general mills,boise cascade,corinthian colleges
+moog,alcatel lucent,steelcase
+markel,linear technology,firstbank
+intermec,pvh,fnb
+questar,kimco realty,goldfield
+canaan,briggs & stratton,csp
+chipotle mexican grill,ennis,us gold
+bankrate,carefusion,curtiss wright
+lincoln national,colgate palmolive,xactly
+adt,regeneron pharmaceuticals,incontact
+elizabeth arden,bank of new york mellon,j jill
+starz,hess,ducommun
+first united,textron,alliance resource partners
+griffon,kraft foods group,salesforce com
+cerner,burger king worldwide,acadia healthcare
+marathon petroleum,eastman chemical,extended stay america
+peabody energy,american assets trust,exone
+intuit,westwood holdings group,national beverage
+tripadvisor,atlantic power,capital one financial
+lifelock,davita,callaway golf
+aar,fiserv,bruker
+time warner cable,shaw group,century communities
+gogo,skullcandy,newmarket
+illinois tool works,sears canada,affiliated managers group
+fortis,ventas,korn ferry
+first bank,diamond foods,public storage
+everyday health,molycorp,vera bradley
+canopy growth,wpx energy,wet seal
+general dynamics,colfax,video display
+sina,netsuite,uranium energy
+blackline,legg mason,pivotal software
+market leader,polycom,twenty first century fox
+morningstar,jabil,hostess brands
+national healthcare,sanchez energy,life storage
+dennys,cameron international,valspar
+united states energy,marin software,us concrete
+sandisk,compuware,hexo
+trivago,stifel financial,cadiz
+fortress biotech,marketo,orix
+mustang bio,broadcom,opiant pharmaceuticals
+plexus,rockwell collins,commercial metals
+exponent,ashford hospitality trust,xylem
+orbital sciences,independent bank,technical communications
+csx,manitowoc,daktronics
+z boy,immunogen,imv
+time new,enbridge,park national
+applied materials,nuance communications,bob evans farms
+actua,cme group,atmel
+albemarle,digital realty trust,arconic
+penumbra,seattle genetics,darden restaurants
+first solar,mdc holdings,cobra electronics
+cisco systems,fmc,franchise group
+buffalo wild wings,matson,e trade financial
+conocophillips,sempra energy,nlight
+nts,halcon resources,ally financial
+anadarko petroleum,blue nile,kronos worldwide
+communications systems,realogy holdings,aruba networks
+actuate,chipotle mexican grill,sitime
+care com,valvoline,synaptics
+first financial,mizuho financial group,middleby
+cray,tupperware brands,agria
+dominion energy,walter energy,boston properties
+carmax,weyerhaeuser,pier 1 imports
+fresh market,weibo,diodes
+tesco,ppg industries,cnh global
+paychex,ceb,freedom holding
+broadvision,cms energy,freds
+rh,quanta services,automatic data processing
+fastly,linkedin,personalis
+foot locker,mbia,energy fuels
+active power,cyan,hercules offshore
+hewlett packard enterprise,aqua america,netgear
+rite aid,asbury automotive group,synopsys
+dropbox,penn national gaming,cracker barrel old country store
+first community,healthcare trust of america,k swiss
+northern trust,ubs ag,comscore
+arbitron,pacific coast oil trust,hatteras financial
+transunion,sps commerce,bats global markets
+texas instruments,foot locker,prospect capital
+potbelly,pinnacle entertainment,renren
+whole foods market,franco nevada,top ships
+tim hortons,pioneer natural resources,hff
+tech data,choice hotels international,body central
+clean harbors,ciena,athenahealth
+reis,acadia pharmaceuticals,protective insurance
+caesars entertainment,infinera,nve
+live nation entertainment,blackstone mortgage trust,active network
+ilg,gigamon,oasis petroleum
+cdi,kbw,fortive
+national instruments,rambus,istar
+fat brands,brinker international,ulta beauty
+books a million,fmc technologies,annies
+reald,myriad genetics,lender processing services
+arch coal,iconix brand group,range resources
+novan,osi systems,hni
+broadcom,liberty property trust,mict
+yum brands,rcs capital,lrad
+hubbell,stec,level 3 communications
+dexcom,rex energy,cancer genetics
+tennant,ultra petroleum,cafepress
+cabelas,lorillard,smtc
+rli,opower,sanderson farms
+belo,archer daniels midland,material sciences
+tredegar,epizyme,first acceptance
+zep,bally technologies,nyse euronext
+primerica,jones energy,jd com
+vf,camden property trust,total system services
+ericsson,ryder systems,firstenergy
+hyatt hotels,control4,parkway properties
+retailmenot,cvent,lgi homes
+dr horton,visteon,paypal holdings
+avista,interoil,southwestern energy
+netsuite,pulte group,oncocyte
+2 u,splunk,eog resources
+ferro,pharmacyclics,solarcity
+kimberly clark,kaiser aluminum,radius health
+orbit international,empire state realty trust,cirrus logic
+career education,national financial partners,qorvo
+ptc,advanced micro devices,imperva
+tsr,vertex pharmaceuticals,kite pharma
+blue earth,united natural foods,matrix service
+nautilus,vornado realty trust,yadkin financial
+williams sonoma,hillshire brands,extra space storage
+kohls,allegheny technologies,barrick gold
+usg,boulder brands,microsemi
+black hills,bonanza creek energy,jarden
+green dot,burlington stores,on semiconductor
+macys,hasbro,navient
+manitowoc,citrix systems,denbury resources
+orbital atk,buckle,dril quip
+pitney bowes,american pacific,yext
+federal signal,liberty interactive,cincinnati financial
+cts,ascena retail group,elevate credit
+salem media group,customers bancorp,proofpoint
+trueblue,baker hughes,westrock
+jetblue airways,parker hannifin,huntington bancshares
+zynga,newfield exploration,netapp
+curis,concho resources,precision castparts
+kinder morgan,consolidated edison,hawaiian holdings
+tns,gnc holdings,sunrun
+chesapeake energy,consolidated graphics,fortinet
+presidio,manhattan associates,axiall
+rpc,coleman cable,intrexon
+sealy,chicago bridge & iron,marine products
+five below,ultratech,alere
+kbr,geron,editas medicine
+palo alto networks,costar group,bok financial
+nio,santarus,gcp applied technologies
+bemis,zulily,national oilwell varco
+iaa,magellan health,deckers outdoor
+tower international,heartland express,realty income
+wex,first foundation,tableau software
+koss,bank of nova scotia,outerwall
+kraft heinz,ezcorp,neophotonics
+stepan,xoom,american water works
+first capital,watsco,itc holdings
+slm,autohome,us foods holding
+shaw group,nvr,paycom software
+ishares,aramark,blue buffalo pet products
+allergan,suncoke energy,sprouts farmers market
+baker hughes,aercap holdings,zoetis
+dominos pizza,lexington realty trust,lifepoint health
+innerworkings,cgg,gatx
+genuine parts,amc entertainment holdings,greenbrier companies
+joy global,gfi group,surgical care affiliates
+black knight,wright medical group,luxoft holding
+wendys,cal maine foods,universal display
+gannett,nii holdings,amicus therapeutics
+tribune publishing,arena pharmaceuticals,castlight health
+unilever,avnet,epam systems
+olin,westlake chemical,axsome therapeutics
+libbey,digital river,eqt
+copart,brown forman,sonic automotive
+knight transportation,brown & brown,popeyes louisiana kitchen
+sothebys,marathon oil,ebix
+stoneridge,pmc sierra,senior housing properties trust
+electronic arts,avery dennison,canadian solar
+retail value,sprint nextel,workhorse group
+biogen,akamai technologies,exelixis
+kansas city southern,cec entertainment,pan american silver
+health net,exelon,lkq
+dollar tree,ppl,encana
+laureate education,amtech systems,pure storage
+cyan,amerisourcebergen,nimble storage
+south state,cf industries holdings,ch robinson worldwide
+bluefly,cameco,ishares trust
+carbon black,juniper networks,main street capital
+fireeye,str holdings,vivint solar
+national commerce,maxwell technologies,hanesbrands
+skyworks solutions,tyler technologies,chesapeake utilities
+kemper,kaydon,tailored brands
+gms,itt educational services,evertec
+irobot,spectrum pharmaceuticals,disney walt
+cable one,bank of hawaii,ringcentral
+norfolk southern,tech data,diamond offshore drilling
+sonos,ariad pharmaceuticals,pervasive software
+ross stores,associated estates realty,quanex building products
+telecommunications systems,bancorp,lsc communications
+shotspotter,rosetta stone,stag industrial
+jamba,vocera communications,affymetrix
+simpson manufacturing,petmed express,global x funds
+toll brothers,enphase energy,amplify snack brands
+carbonite,first financial holdings,milestone scientific
+american public education,qiagen,verint systems
+zulily,sandisk,seres therapeutics
+vermillion,titan machinery,terraform power
+aceto,blackrock,ameren
+american eagle outfitters,optimer pharmaceuticals,vista outdoor
+graco,clayton williams energy,ruckus wireless
+spectra energy,genworth financial,walgreens boots alliance
+coty,luminex,armstrong flooring
+gaia,intermune,rex american resources
+culp,baxter international,cca industries
+pepsico,vitamin shoppe,qlogic
+elong,life technologies,secureworks
+matson,pcm,value line
+home properties,pebblebrook hotel trust,integrated device technology
+reynolds american,clean harbors,flowers foods
+lorillard,hamilton lane,hologic
+alleghany,biomarin pharmaceutical,ims health holdings
+moodys,msci,plug power
+grubhub,pdl biopharma,equinix
+equity residential,acuity brands,red rock resorts
+kior,informatica,aegion
+saia,vmware,four corners property trust
+community financial,healthcare services group,united fire group
+diagnostics,rochester medical,applied micro circuits
+quest diagnostics,csx,tellurian
+kirklands,nexen,southern copper
+beyond air,geoeye,gamco investors
+multi color,kennametal,empire resorts
+bce,gentex,hospira
+burlington stores,conocophillips,scotts miracle gro
+mgm resorts international,international game technology,exactech
+davita,cno financial group,mednax
+precision drilling,e2open,agrium
+cardinal health,corning,kraton
+panasonic,ellie mae,sage therapeutics
+united parcel service,bloomin brands,teradata
+wayfair,square,fossil group
+carvana,mcdermott international,turning point brands
+las vegas sands,robbins & myers,carlisle companies
+k12,cognex,siteone landscape supply
+petsmart,zagg,memorial resource development
+alexanders,analog devices,virgin media
+globalstar,syntel,tegna
+momo,sally beauty holdings,treehouse foods
+power one,wageworks,cormedix
+immunogen,cloud peak energy,sigma aldrich
+magna international,alpha natural resources,merrimack pharmaceuticals
+steel dynamics,viropharma,shoe carnival
+ameriprise financial,eagle materials,analogic
+baozun,forest labs,jones lang lasalle
+novavax,sarepta therapeutics,magnum hunter resources
+sapient,wms industries,jolla pharmaceutical
+funko,medical properties trust,5 global
+evergy,garrison capital,artesian resources
+american pacific,susser holdings,nutanix
+bojangles,pss world medical,spark therapeutics
+change healthcare,essex property trust,zoes kitchen
+splunk,generac holdings,paccar
+control4,chubb,celator pharmaceuticals
+sanofi,tenneco,great plains energy
+gilead sciences,mondelez international,demandware
+chart industries,heartland payment systems,ew scripps company
+colfax,monroe capital,dermira
+molson coors brewing,airgas,nanthealth
+zoom video communications,crown holdings,nuvasive
+msci,trimble,chemours
+nxt,prudential plc,bluebird bio
+neenah,freeport mcmoran,cooper companies
+clearfield,patterson uti energy,foundation medicine
+kubota,northwest biotherapeutics,agios pharmaceuticals
+diamondback energy,sandridge permian trust,arrow electronics
+globe life,proto labs,cavium
+lhc group,incyte,western refining
+sysco,parsley energy,microvision
+core laboratories,matador resources,emulex
+online resources,american finance trust,amerco
+moderna,virtu financial,strategy shares
+aveo pharmaceuticals,activision blizzard,financial engines
+bio reference laboratories,yeti holdings,atn international
+fiserv,m & t bank,millennial media
+student transportation,svb financial group,idexx laboratories
+iheartmedia,zix,heartware international
+abbott laboratories,brighthouse financial,puma biotechnology
+danaher,meritor,insperity
+ucp,covetrus,stericycle
+life time fitness,newell brands,city office reit
+texas roadhouse,avedro,prime acquisition
+kroger company,xpo logistics,barracuda networks
+seaworld entertainment,culp,pricesmart
+constellation brands,nio,omeros
+ecolab,twilio,nxp semiconductors
+boston beer,stitch fix,avangrid
+verizon communications,hercules capital,csra
+big lots,aurora cannabis,patheon
+occidental petroleum,worldpay,delmar pharmaceuticals
+bank first,starz,vbi vaccines
+appian,petiq,china lending
+upwork,zimmer biomet holdings,global medical reit
+smithfield foods,sonos,aclaris therapeutics
+icu medical,alliance data systems,ltc properties
+andersons,eagle pharmaceuticals,bristow group
+advanced micro devices,dell technologies,intellia therapeutics
+thermo fisher scientific,graham holdings,orbcomm
+unifi,nektar therapeutics,first hawaiian
+bloom energy,zillow group,monster worldwide
+national interstate,bankwell financial group,veritiv
+nci,texas pacific land trust,avexis
+fiesta restaurant group,fiat chrysler automobiles,winnebago industries
+dmc global,conmed,post properties
+abbvie,wyndham destinations,staffing 360 solutions
+hormel foods,williams sonoma,sirius xm holdings
+on deck capital,fiesta restaurant group,limelight networks
+cvs health,citizens financial group,sprint new
+verisign,beyond meat,atomera
+china fund,covanta holding,cyberonics
+urban one,grubhub,travelers companies
+air t,rh,intersil
+tribune media,ssr mining,rapid7
+general finance,chewy,opko health
+opentable,abbvie,omnicell
+datalink,l3harris technologies,elf beauty
+educational development,genesee & wyoming,pdc energy
+stage stores,cloudera,universal electronics
+ceb,iaa,cepheid
+st joe,zebra technologies,cardconnect
+masimo,expedia group,fb financial
+ellie mae,fireeye,resmed
+x financial,cloudflare,impinj
+citizens holding,amtd international,sanmina
+equillium,mulesoft,cbiz
+interphase,medallia,everbridge
+west marine,smiledirectclub,the trade desk
+xcel energy,pace holdings,resolute energy
+comerica,exagen,energy recovery
+evercore,digital turbine,58 com
+real industry,canadian national railway,wci communities
+at home group,prologis,capstar financial holdings
+l brands,dht holdings,commvault systems
+genesis healthcare,kemet,align technology
+docusign,post holdings,maxim integrated products
+headwaters,boston scientific,store capital
+city national,mks instruments,clovis oncology
+voltari,garrett motion,coupa software
+universal health services,change healthcare,global blood therapeutics
+idt,ww international,image sensing systems
+tyler technologies,iberiabank,versum materials
+regeneron pharmaceuticals,virgin galactic holdings,team health holdings
+stars group,juniper industrial holdings,ipic entertainment
+yrc worldwide,hersha hospitality trust,infoblox
+dialogic,progyny,qualys
+forty seven,datadog,advanced disposal services
+cango,hf foods group,allegiant travel
+shopify,booking holdings,maxlinear
+steel holding,oxford industries,hd supply holdings
+servicenow,viacomcbs,alliant energy
+daily journal,logmein,retrophin
+vmware,copart,mammoth energy services
+activision blizzard,kodiak sciences,avid technology
+solarwinds,mindbody,bnc bancorp
+vitamin shoppe,unitedhealth group,ptc therapeutics
+trulia,ablynx,invitation homes
+noble energy,heritage financial,adtran
+central federal,mercadolibre,scorpio tankers
+ecotality,newmark group,edwards lifesciences
+alkaline water,fte networks,be aerospace
+ehealth,moneygram international,msg networks
+qumu,juno therapeutics,acushnet holdings
+mdc partners,varian medical systems,zuora
+aaon,patterson companies,providence service
+enbridge,sorrento therapeutics,open text
+zumiez,albemarle,smart sand
+dte energy,viasat,regions financial new
+document security systems,gtt communications,hortonworks
+mobile mini,itron,conduent
+sherwin williams,caci international,kinsale capital group
+myriad genetics,pinnacle financial partners,six flags entertainment
+instructure,thor industries,regency centers
+eastman chemical,eaton vance,dryships
+yandex,mfa financial,ingevity
+kla,worthington industries,fifth third bancorp
+global payments,acacia communications,new york mortgage trust
+lo jack,iqvia holdings,moxian
+eastman kodak,box,rsp permian
+alico,boyd gaming,lmi aerospace
+family dollar stores,ilg,flowserve
+cme group,jacobs engineering group,criteo sa
+axt,new relic,neurocrine biosciences
+conns,macerich,kinross gold
+atmos energy,wabtec,therapeuticsmd
+joyy,deutsche bank ag,mogu
+angies list,madrigal pharmaceuticals,insys therapeutics
+tenet healthcare,sierra wireless,finisar
+intuitive surgical,casa systems,kewaunee scientific
+american greetings,asm international,dct industrial trust
+american international group,us xpress enterprises,bwx technologies
+marathon oil,super league gaming,tetra tech
+edison nation,trustco bank,waste connections
+reading international,gray television,acorda therapeutics
+resource america,brightview holdings,interdigital
+frontier communications,synnex,array biopharma
+eplus,huya,invensense
+valvoline,air lease,okta
+hillenbrand,altice usa,gulfport energy
+akorn,brooks automation,badger meter
+avon products,dr pepper snapple group,royal gold
+crumbs bake shop,perkinelmer,receptos
+destination maternity,cimarex energy,toro company
+ultratech,keurig green mountain,assurant
+cosi,energen,brookdale senior living
+odyssey marine exploration,match group,dendreon
+mongodb,cantel medical,gt advanced technologies
+mastec,wingstop,msc industrial direct
+supervalu,camping world holdings,advansix
+bat group,golden entertainment,quad graphics
+emc,vse,diebold nixdorf
+almost family,tilray,progress software
+alcon,sendgrid,colucid pharmaceuticals
+kforce,cronos group,jagged peak energy
+livent,del taco restaurants,jeld wen holding
+synchrony financial,dave & busters entertainment,tutor perini
+biocryst pharmaceuticals,gms,corecivic
+chimerix,leggett & platt,rev group
+site centers,snap,ethan allen interiors
+aegon,usa technologies,lululemon athletica
+lakeland industries,nevro,oclaro
+newlink genetics,transenterix,wisdomtree investments
+motorola solutions,pattern energy group,mead johnson nutrition
+1 800 flowers com,rue21,wabash national
+nrg energy,abm industries,bioverativ
+build a bear workshop,mohawk industries,gevo
+9f,netease,snyders lance
+support com,verifone systems,auxilio
+aramark,au optronics,canada goose holdings
+cypress semiconductor,vulcan materials,hilton worldwide holdings
+shutterfly,nephrogenex,chevron new
+calpine,northwest pipe,laredo petroleum
+xo group,national general holdings,mobileiron
+valley national bancorp,rice energy,medidata solutions
+advance auto parts,endologix,gardner denver
+f 5 networks,staples,arista networks
+carmike cinemas,etsy,envision healthcare
+summer infant,ballard power systems,sound financial bancorp
+plum creek timber,uqm technologies,welbilt
+intergroup,centerpoint energy,childrens place
+extreme networks,annaly capital management,madison square garden new
+cbre group,columbia property trust,blueprint medicines
+otonomy,penn virginia,air methods
+kelly services,arbor realty trust,aurinia pharmaceuticals
+microchip technology,ecolab,r1 rcm
+ceres,wabco holdings,kcg holdings
+boston scientific,avg technologies,cullen frost bankers
+idex,sfx entertainment,amber road
+altera,idera pharmaceuticals,zs pharma
+makita,rubicon project,medicines company
+gentex,zumiez,dominion diamond
+ooma,corium international,hometown bankshares
+equity one,mercury systems,alteryx
+homeaway,momo,voyager therapeutics
+amc networks,lennox international,autoliv
+omnicare,bankrate,just energy group
+zipcar,hms holdings,american woodmark
+nexen,ares management,halozyme therapeutics
+igo,cheetah mobile,ring energy
+chegg,alcentra capital,rlj lodging trust
+lightbridge,windstream holdings,warrior met coal
+corinthian colleges,apollo education group,dxc technology
+steelcase,finjan holdings,cyrusone
+firstbank,intercept pharmaceuticals,cara therapeutics
+fnb,vanda pharmaceuticals,john bean technologies
+goldfield,american dg energy,genomic health
+csp,tw telecom,cadence bancorp
+beyond meat,lithia motors,meridian bioscience
+us gold,basic energy services,pc connection
+baidu,ardelyx,novo nordisk as
+curtiss wright,methanex,the meet group
+xactly,wec energy group,transcat
+incontact,micros systems,antero midstream
+weyerhaeuser,ambarella,avantor
+j jill,pepco holdings,quotient technology
+smart technologies,jason industries,heron therapeutics
+american electric power,constellation brands,gardner denver holdings
+mueller water products,american apparel,altimmune
+ducommun,unum group,encore wire
+alliance resource partners,calpine,veritone
+salesforce com,qep resources,discover financial services
+acadia healthcare,mdc partners,flexion therapeutics
+extended stay america,gentiva health services,daseke
+hercules capital,concur technologies,immunomedics
+stitch fix,contrafect,atwood oceanics
+micron technology,california water service group,loxo oncology
+exone,whitewave foods,g iii apparel group
+airgas,mobileye,keysight technologies
+prologis,aviva plc,new age beverages
+national beverage,columbia pipeline group,coresite realty
+western digital,sunedison,coherus biosciences
+capital one financial,athlon energy,teekay
+booking holdings,biocryst pharmaceuticals,scientific games
+opower,vwr,overhill farms
+callaway golf,chimerix,fabrinet
+pcm,kindred healthcare,spectranetics
+bruker,bjs restaurants,dova pharmaceuticals
+century communities,flotek industries,monogram residential trust
+amerisourcebergen,fti consulting,india fund
+newmarket,usana health sciences,gold standard ventures
+hca healthcare,fei company,terraform global
+affiliated managers group,rockwell medical,cynosure
+korn ferry,homeaway,precipio
+informatica,cst brands,pdf solutions
+public storage,paramount group,arcimoto
+philip morris international,california resources,ceva
+synnex,tim hortons,sunrise senior living
+netlist,lendingclub,cutera
+vera bradley,avalon holdings,andeavor
+new relic,diagnostics,first financial northwest
+wet seal,blue bird,shutterstock
+video display,superior energy services,national retail properties
+uranium energy,tg therapeutics,fuel tech
+fti consulting,city national,myokardia
+edison international,lear,starwood waypoint homes
+pivotal software,martin marietta materials,summit materials
+twenty first century fox,dte energy,granite construction
+hostess brands,agl resources,sterling construction
+spx,murphy usa,supernus pharmaceuticals
+life storage,agco,agree realty
+valspar,first solar,hooker furniture
+us concrete,virtus investment partners,omnicom group
+american outdoor brands,blackhawk network holdings,insmed
+qad,neustar,hci group
+sinclair broadcast group,redwood trust,shire plc
+sunpower,sl green realty,lattice semiconductor
+smiledirectclub,avon products,medallion financial
+hexo,antero resources,ubiquiti
+centerpoint energy,central pacific financial,cohu
+nextera energy,catamaran,hollyfrontier
+brown forman,cbre group,cargurus
+cadiz,carpenter technology,springworks therapeutics
+orix,federal realty investment trust,zogenix
+opiant pharmaceuticals,altria group,l 3 technologies
+celgene,apigee,collegium pharmaceutical
+praxair,glu mobile,rbc bearings
+commercial metals,hubspot,optical cable
+nvr,pinnacle west capital,vectren
+textron,rosetta resources,luther burbank
+inphi,sm energy,acme united
+phh,enova international,service international
+xylem,liberty broadband,qudian
+technical communications,bank of kentucky financial,rhythm pharmaceuticals
+aurora cannabis,sun life financial,sea limited
+daktronics,milacron holdings,lumentum holdings
+imv,conformis,deltic timber
+uber technologies,tarena international,forescout technologies
+park national,american railcar industries,group 1 automotive
+bob evans farms,freightcar america,calatlantic group
+atmel,pearson plc,red robin gourmet burgers
+arconic,mylan,quality distribution
+darden restaurants,ellington financial,inflarx
+unifirst,baxalta,corporate capital trust
+cobra electronics,houlihan lokey,legacy acquisition
+united therapeutics,calamos asset management,select medical holdings
+franchise group,nortek,boingo wireless
+kyocera,methode electronics,sterling bancorp
+startek,tetraphase pharmaceuticals,agilent technologies
+e trade financial,hub group,cytokinetics
+nlight,solera holdings,werner enterprises
+ally financial,helmerich & payne,aspen technology
+avery dennison,sirona dental systems,byline bancorp
+kronos worldwide,performance food group,new residential investment
+agco,alcoa,diplomat pharmacy
+aruba networks,cpi card group,mgp ingredients
+sitime,fifth street asset management,five prime therapeutics
+synaptics,american farmland company,barnes group
+middleby,tivo,aerovironment
+regal entertainment group,murphy oil,granite point mortgage trust
+bank of new york mellon,mentor graphics,denali therapeutics
+pinnacle foods,duluth holdings,cboe global markets
+agria,molson coors brewing,riot blockchain
+boston properties,associated capital group,darling ingredients
+pier 1 imports,blackbaud,ttm technologies
+diodes,atara biotherapeutics,maxar technologies
+cnh global,federated investors,longfin
+freedom holding,erin energy,long blockchain
+freds,inseego,ignyta
+automatic data processing,texas capital bancshares,net element
+personalis,pegasystems,anaptysbio
+alpha natural resources,shockwave medical,luckin coffee
+energy fuels,lhc group,expeditors international
+hercules offshore,conagra brands,eldorado resorts
+netgear,inovio pharmaceuticals,natera
+synopsys,loews,axon enterprise
+cracker barrel old country store,lci industries,fair isaac
+k swiss,kontoor brands,tandem diabetes care
+comscore,flex ltd,viking therapeutics
+hatteras financial,taubman centers,hancock whitney
+bats global markets,corelogic,far point acquisition
+prospect capital,medifast,comcast new
+renren,vaxart,capital southwest
+geron,portland general electric,abiomed
+top ships,vistra energy,vir biotechnology
+hff,igm biosciences,lee enterprises
+body central,republic services,renewable energy group
+thomson reuters,healthpeak properties,independent bank group
+athenahealth,steel dynamics,grand canyon education
+protective insurance,brookfield asset management,aimmune therapeutics
+rochester medical,inphi,aradigm
+travelzoo,shopify,slack technologies
+blue nile,dpw holdings,purple innovation
+nve,irhythm technologies,taylor morrison home
+active network,zscaler,revolve group
+life technologies,marathon patent group,edgewell personal care
+oasis petroleum,nautilus,cardlytics
+fortive,hudson technologies,option care health
+medifast,synergy pharmaceuticals,zoom technologies
+ciena,pacific continental,realreal
+istar,wgl holdings,livongo health
+ulta beauty,tribune media,cryoport
+annies,presidio,monopar therapeutics
+titan machinery,altera,old dominion freight line
+lender processing services,insulet,equity lifestyle properties
+linear technology,mdu resources group,equity commonwealth
+range resources,ionis pharmaceuticals,liquidity services
+knight capital group,first bank,invitae
+hni,smart technologies,duke realty
+franklin electric,exar,energy focus
+arena pharmaceuticals,paratek pharmaceuticals,simply good foods
+mict,schneider national,diamond s shipping
+lrad,virgin america,diamond eagle acquisition
+level 3 communications,patrick industries,tcf financial
+cancer genetics,floor & decor holdings,dynatrace
+cafepress,umpqua holdings,regional management
+genesco,zendesk,emergent biosolutions
+smtc,amn healthcare services,corteva
+ipass,siemens ag,liveperson
+sanderson farms,blue apron holdings,bausch health companies
+cinemark holdings,portola pharmaceuticals,sprout social
+harris interactive,farmland partners,american software
+material sciences,air transport services group,gsx techedu
+itron,tesaro,cortexyme
+micros systems,cohen & steers,meritage homes
+first acceptance,voya financial,amyris
+meritor,metlife,douglas emmett
+nyse euronext,fibrogen,flir systems
+baxalta,ranger energy services,agenus
+freeport mcmoran,universal insurance holdings,cerus corporation
+weibo,tsr,american states water
+jd com,brixmor property group,weis markets
+vulcan materials,harsco,ashland global holdings
+eagle materials,fulton financial,molecular data
+hilltop holdings,rlj entertainment,old republic international
+pvh,national vision holdings,cannae holdings
+total system services,novanta,translate bio
+acuity brands,scripps networks interactive,tortoise acquisition
+firstenergy,curo group holdings,agnc investment
+trinity place holdings,alexion pharmaceuticals,skyline champion
+sunedison,park city group,ii vi
+parkway properties,smart global holdings,us global investors
+lgi homes,micron technology,clean energy fuels
+paypal holdings,sangamo therapeutics,spartan energy acquisition
+match group,trinity place holdings,churchill capital
+southwestern energy,rpm international,ameresco
+oncocyte,tumi holdings,health catalyst
+murphy oil,aceto,aphria
+pioneer natural resources,phillips 66,target hospitality
+eog resources,targa resources,pinduoduo
+pbf energy,udr,keurig dr pepper
+cenovus energy,praxair,collier creek holdings
+altria group,stonegate bank,cnx resources
+solarcity,pra group,adaptive biotechnologies
+radius health,pjt partners,iqiyi
+rpm international,goldman sachs group,remark holdings
+cirrus logic,premier,principia biopharma
+qorvo,hudson pacific properties,cadence design systems
+california resources,anacor pharmaceuticals,ping identity holding
+analog devices,national cinemedia,super micro computer
+illumina,hewlett packard enterprise,fulgent genetics
+pmc sierra,el paso electric,malibu boats
+imperva,eversource energy,teladoc health
+apollo education group,pra health sciences,yamana gold
+kite pharma,noodles &,pagerduty
+trinity industries,herc holdings,catalent
+new york community bancorp,ambac financial group,cnh industrial
+epr properties,mitel networks,arrowhead pharmaceuticals
+xpo logistics,cambrex,anaplan
+tumi holdings,silicon laboratories,green brick partners
+kbw,deluxe,avaya holdings
+jones energy,scholastic,insurance acquisition
+ultra petroleum,tower international,varonis systems
+matrix service,nordson,welltower
+penn virginia,mantech international,scholar rock holding
+yadkin financial,apptio,trupanion
+ambarella,hilltop holdings,vici properties
+extra space storage,cna financial,frequency therapeutics
+barrick gold,yum china holdings,blink charging
+microsemi,bgc partners,turtle beach
+jarden,epr properties,atricure
+aqua america,clarcor,gas natural
+on semiconductor,quest diagnostics,silver spike acquisition
+ardelyx,kforce,lydall
+post holdings,korea electric power,prevail therapeutics
+navient,buckeye technologies,experience investment
+cal maine foods,principal financial group,new providence acquisition
+sm energy,autodesk,truist financial
+jabil,shfl entertainment,ocugen
+incyte,travelzoo,suntrust banks
+denbury resources,coty,zafgen
+dril quip,exco resources,mwi veterinary supply
+yext,brinks,wolverine world wide
+baxter international,maidenform brands,habit restaurants
+cincinnati financial,spdr gold trust,ocwen financial
+nisource,cypress semiconductor,ardmore shipping
+citrix systems,old national bancorp,relypsa
+xilinx,diana shipping,orbitz worldwide
+eaton vance,united online,umb financial
+cameron international,jpmorgan chase &,esterline technologies
+emerson electric,cooper tire & rubber,olympic steel
+elevate credit,centerstate bank,rock tenn
+proofpoint,american airlines group,world gold trust
+pulte group,hovnanian enterprises,advent software
+legg mason,navistar international,sunopta
+kb home,aar,star bulk carriers
+ventas,wsb holdings,exelis
+tg therapeutics,jakks pacific,urban edge properties
+zillow group,american greetings,mts systems
+sandridge energy,angiodynamics,achillion pharmaceuticals
+westrock,hill international,inovalon holdings
+rambus,igo,fleetcor technologies
+murphy usa,pnm resources,digital ally
+huntington bancshares,arbitron,pacwest bancorp
+vail resorts,roma financial,mattress firm holding
+netapp,carters,mannkind
+national general holdings,at & t,dealertrack technologies
+manhattan associates,cree,maxpoint interactive
+citizens financial group,pbf energy,comstock resources
+precision castparts,peloton interactive,goodrich petroleum
+independent bank,china automotive systems,rti international metals
+hawaiian holdings,marcus & millichap,vivus
+juniper networks,sunpower,inogen
+ppg industries,gold reserve,rentrak
+tupperware brands,synthorx,accelerate diagnostics
+rockwell automation,alamo group,goldman sachs bdc
+sunrun,lightbridge,two harbors investment
+fortinet,lifeway foods,synthetic biologics
+avnet,liberty oilfield services,endocyte
+colgate palmolive,sg blocks,franklin financial
+axiall,pacific ethanol,rogers communications
+alliance data systems,invesco mortgage capital,vectrus
+intrexon,carbonite,hudson city bancorp
+marine products,marinemax,dyax
+alcatel lucent,fitbit,physicians realty trust
+alere,dixie group,spartannash
+vertex pharmaceuticals,stryker,aurico gold
+forest labs,columbia sportswear company,bmc software
+editas medicine,k12,party city holdco
+autodesk,encore capital group,aduro biotech
+bok financial,pandora media,fusion io
+gcp applied technologies,dyadic international,websense
+national oilwell varco,outfront media,allete
+deckers outdoor,astrotech,eventbrite
+realty income,viad,nobilis health
+tableau software,yrc worldwide,aerie pharmaceuticals
+outerwall,rci hospitality holdings,qlik technologies
+genworth financial,quidel,global brokerage
+neophotonics,centric brands,nidec
+american water works,genius brands international,omnivision technologies
+itc holdings,xpresspa group,new senior investment group
+targa resources,momenta pharmaceuticals,nu skin enterprises
+texas capital bancshares,echelon,synageva biopharma
+us foods holding,viewray,infinity pharmaceuticals
+cheniere energy,douglas dynamics,quiksilver
+nuance communications,ignite restaurant group,quinta holdings
+paycom software,chicos fas,spark networks
+blue buffalo pet products,united insurance holdings,pure acquisition
+sprouts farmers market,bce,talen energy
+intercept pharmaceuticals,ingram micro,t mobile us
+zoetis,ralph lauren,evolent health
+lifepoint health,gibraltar industries,hcc insurance holdings
+concho resources,lexicon pharmaceuticals,gentherm
+gatx,centurylink,enerplus
+greenbrier companies,hertz global holdings,ryland group
+surgical care affiliates,crocs,ormat technologies
+boyd gaming,qad,entegris
+ingram micro,manpowergroup,meru networks
+luxoft holding,axcelis technologies,glaukos
+universal display,national holdings,stantec
+amicus therapeutics,alexanders,appfolio
+castlight health,european equity fund,gener8 maritime
+epam systems,credit suisse group,newpark resources
+rockwell collins,unit,topbuild
+franklin resources,aarons,green plains
+axsome therapeutics,nordion,cablevision systems
+eqt,tc energy,opus bank
+energen,state street,overseas shipholding group
+penske automotive group,exact sciences,anthera pharmaceuticals
+sonic automotive,forrester research,thoratec
+avis budget group,axt,national fuel gas
+popeyes louisiana kitchen,alico,radiant logistics
+ebix,rentech,nantkwest
+senior housing properties trust,franklin financial services,key energy services
+canadian solar,team,vantage drilling
+workhorse group,ares capital,thl credit
+rubicon project,ur energy,teco energy
+newfield exploration,liberty expedia holdings,medassets
+rockwell medical,goodyear tire & rubber,uniqure
+exelixis,mustang bio,boot barn holdings
+alexion pharmaceuticals,lifetime brands,haynes international
+pan american silver,netlist,cdk global
+lkq,cenovus energy,state national companies
+encana,sentinel energy services,intrepid potash
+mizuho financial group,interface,karyopharm therapeutics
+pure storage,semtech,klx
+semtech,isoray,webster financial
+pepco holdings,equinor asa,dot hill systems
+udr,innospec,plx technology
+nimble storage,seaspan,lannett
+essex property trust,mosys,crh medical
+ch robinson worldwide,janus henderson group plc,aeterna zentaris
+ishares trust,brady,immunic
+mentor graphics,microchip technology,pfenex
+main street capital,proshares trust,echo global logistics
+thor industries,willdan group,euronav
+united natural foods,command security,ingredion
+vivint solar,magenta therapeutics,adept technology
+hanesbrands,connectone bancorp,t rowe price group
+chesapeake utilities,veeva systems,regenxbio
+air transport services group,syngenta ag,vale sa
+tailored brands,maxygen,ldr holding
+parsley energy,ixia,biomed realty trust
+evertec,tubemogul,stillwater mining
+disney walt,uroplasty,spartan motors
+ringcentral,digitalglobe,verisk analytics
+diamond offshore drilling,alnylam pharmaceuticals,ani pharmaceuticals
+pervasive software,ambassadors group,carbo ceramics
+quanex building products,kohls,arcbest
+lsc communications,halliburton company,kennedy wilson holdings
+air lease,hibbett sports,benchmark electronics
+walter energy,azz,power integrations
+stag industrial,carnival plc,youku tudou
+stonegate bank,air products & chemicals,uil holdings
+columbia pipeline group,krispy kreme doughnuts,natural health trends
+aeropostale,imris,dimension therapeutics
+affymetrix,national penn bancshares,lm funding america
+pra group,shoretel,dolby laboratories
+global x funds,ipass,teligent
+amplify snack brands,barclays plc,piedmont natural gas
+pjt partners,american eagle energy,care capital properties
+milestone scientific,canadian imperial bank commerce,aac holdings
+prudential financial,kilroy realty,anavex life sciences
+medivation,silicon image,metaldyne performance group
+verint systems,borgwarner,biotelemetry
+acadia pharmaceuticals,sibanye stillwater,semgroup
+goldman sachs group,oceanfirst financial,fuling global
+seres therapeutics,angi homeservices,seritage growth properties
+portola pharmaceuticals,unilever plc,verso
+terraform power,ibio,intl fcstone
+viewray,niu technologies,tillys
+ameren,interactive brokers group,cytosorbents
+vista outdoor,sogou,peak resorts
+ruckus wireless,bandwidth,verastem
+rice energy,saul centers,kalobios pharmaceuticals
+walgreens boots alliance,aquantia,adeptus health
+tesaro,central securities,crescent point energy
+armstrong flooring,broadsoft,convergys
+conformis,nisource,world acceptance
+rex american resources,bcb bancorp,konami
+cca industries,mcewen mining,advanced emissions solutions
+qlogic,quorum health,galectin therapeutics
+secureworks,waters,cubist pharmaceuticals
+newell brands,bancfirst,perceptron
+value line,rio tinto plc,emerald oil
+integrated device technology,commerce bancshares,crosstex energy
+flowers foods,api technologies,ep energy
+consolidated edison,xoma,robert half international
+hologic,meta financial group,advantest
+ims health holdings,vocus,mrc global
+plug power,forestar group,fairway group holdings
+perkinelmer,asia pacific fund,ftd companies
+ixia,straight path communications,concert pharmaceuticals
+polycom,aware,cadence pharmaceuticals
+mbia,altaba,wellcare health plans
+equinix,bebe stores,valmont industries
+cvent,microstrategy,triquint semiconductor
+red rock resorts,pfsweb,anika therapeutics
+aegion,chemtura,regal beloit
+ionis pharmaceuticals,adamis pharmaceuticals,powersecure international
+four corners property trust,medivation,capstone turbine
+pandora media,starwood property trust,raven industries
+diamond foods,cardinal financial,caesars acquisition
+cst brands,united bancshares,staar surgical
+united fire group,uti worldwide,measurement specialties
+sarepta therapeutics,lions gate entertainment,q 2 holdings
+applied micro circuits,privatebancorp,tpg specialty lending
+canadian national railway,startek,borderfree
+tellurian,movado group,square 1 financial
+bloomin brands,vonage holdings,trinet group
+southern copper,phh,aerohive networks
+hill international,kubota,energous
+cvr energy,responsys,korea fund
+gamco investors,amedisys,questcor pharmaceuticals
+empire resorts,pros holdings,carriage services
+hudson pacific properties,firstmerit,hain celestial group
+hospira,howard hughes,euronet worldwide
+republic services,unifirst,celldex therapeutics
+scotts miracle gro,conatus pharmaceuticals,ntt docomo
+exactech,teleflex,lombard medical
+mednax,aon plc,approach resources
+agrium,red lion hotels,jive software
+kraton,cheniere energy,aldeyra therapeutics
+choice hotels international,century aluminum,electronics for imaging
+sage therapeutics,olin,rackspace hosting
+teradata,pool,examworks group
+lendingclub,mannatech,heritage insurance holdings
+fossil group,sun communities,protective life
+turning point brands,moog,advanced energy industries
+carlisle companies,riverbed technology,everbank financial
+siteone landscape supply,switch,hittite microwave
+virtu financial,skechers usa,orexigen therapeutics
+acacia communications,mueller water products,albany molecular research
+memorial resource development,jaguar health,universal corporation
+virgin media,transalta,violin memory
+anacor pharmaceuticals,mcclatchy,talisman energy
+cimarex energy,,rockwood holdings
+tegna,,tibco software
+louisiana pacific,,parkervision
+treehouse foods,,triangle petroleum
+national cinemedia,,timken company
+cormedix,,timkensteel
+wageworks,,vitacost com
+sigma aldrich,,american campus communities
+merrimack pharmaceuticals,,education realty trust
+shoe carnival,,chesapeake lodging trust
+interoil,,radian group
+analogic,,auxilium pharmaceuticals
+jones lang lasalle,,asml holding
+magnum hunter resources,,ctc media
+interactive brokers group,,wp carey
+jolla pharmaceutical,,neogen
+nordson,,advanced drainage systems
+5 global,,coventry health care
+artesian resources,,journal communications
+el paso electric,,onyx pharmaceuticals
+cloud peak energy,,james river coal
+nutanix,,silver spring networks
+spark therapeutics,,international rectifier
+twilio,,pharmerica
+zoes kitchen,,cumulus media
+paccar,,northeast bank
+celator pharmaceuticals,,pixelworks
+great plains energy,,taminco
+demandware,,sonoco products
+ew scripps company,,globe specialty metals
+dermira,,green bancorp
+nanthealth,,civitas solutions
+nuvasive,,eagle bulk shipping
+chemours,,fibrocell science
+bluebird bio,,medley management
+cooper companies,,yodlee
+seattle genetics,,standard register
+wpx energy,,agile therapeutics
+superior energy services,,franks international
+foundation medicine,,xcerra
+ryder systems,,eagle point credit
+oxford industries,,rush enterprises
+marketo,,silicon motion technology
+bgc partners,,mol global
+agios pharmaceuticals,,map pharmaceuticals
+pra health sciences,,first financial service
+arrow electronics,,sap se
+gray television,,first majestic silver
+viad,,mueller industries
+cavium,,sientra
+western refining,,aegerion pharmaceuticals
+microvision,,covance
+emulex,,legacy reserves
+eversource energy,,global eagle entertainment
+amerco,,forest oil
+strategy shares,,investors title
+financial engines,,tanger factory outlet centers
+altice usa,,spansion
+atn international,,cipher pharmaceuticals
+millennial media,,lasalle hotel properties
+mcdermott international,,warren resources
+borgwarner,,investors real estate trust
+idexx laboratories,,second sight medical products
+heartware international,,xenoport
+archer daniels midland,,alder biopharmaceuticals
+kimco realty,,iridium communications
+puma biotechnology,,twin disc
+insperity,,callidus software
+stericycle,,trex company
+parker hannifin,,greif
+mondelez international,,bon ton stores
+city office reit,,dine brands global
+mobileye,,farmmi
+hillshire brands,,cigna new
+herc holdings,,sp plus
+ambac financial group,,bilibili
+nortek,,mvb financial
+prime acquisition,,alkermes plc
+whitewave foods,,revance therapeutics
+juno therapeutics,,smartsheet
+corelogic,,lakeland financial
+biomarin pharmaceutical,,american superconductor
+barracuda networks,,abaxis
+pricesmart,,jounce therapeutics
+mitel networks,,pluralsight
+agl resources,,livexlive media
+fmc technologies,,greensky
+pinnacle financial partners,,genprex
+omeros,,performance technologies
+cambrex,,integer holdings
+nxp semiconductors,,charah solutions
+avangrid,,optinose
+yum china holdings,,naked brand group
+csra,,cui global
+patheon,,transdigm group
+delmar pharmaceuticals,,everquote
+gfi group,,installed building products
+silicon laboratories,,bank ozk
+vbi vaccines,,ipg photonics
+mfa financial,,tahoe resources
+harsco,,arlo technologies
+china lending,,wheaton precious metals
+global medical reit,,intersect ent
+federated investors,,virtra
+aclaris therapeutics,,bank of princeton
+ltc properties,,community bank system
+bristow group,,liquidia technologies
+zendesk,,svmk
+infinera,,xrs
+intellia therapeutics,,uniti group
+pharmacyclics,,unity biotechnology
+cognex,,front yard residential
+orbcomm,,guardant health
+posco,,armo biosciences
+zebra technologies,,penney jc
+first hawaiian,,mirati therapeutics
+innospec,,valley financial
+wingstop,,jbg smith properties
+boise cascade,,elanco animal health
+monster worldwide,,src energy
+veritiv,,athenex
+avexis,,qurate retail
+winnebago industries,,tpi composites
+post properties,,first merchants
+staffing 360 solutions,,si bone
+sirius xm holdings,,kar auction services
+westwood holdings group,,information services group
+limelight networks,,tivity health
+sprint new,,ladder capital
+atomera,,one stop systems
+cyberonics,,ofs credit
+travelers companies,,qutoutiao
+intersil,,research frontiers
+gnc holdings,,element solutions
+rapid7,,om group
+centric brands,,evolus
+cantel medical,,astronics
+itt educational services,,east west bancorp
+mantech international,,jack the box
+opko health,,immune design
+omnicell,,time warner new
+elf beauty,,seabridge gold
+pdc energy,,codexis
+clayton williams energy,,ngm biopharmaceuticals
+american airlines group,,silk road medical
+veeva systems,,world fuel services
+compuware,,tradeweb markets
+universal electronics,,leo holdings
+navistar international,,limoneira
+cepheid,,forterra
+cardconnect,,coca cola consolidated
+fb financial,,iamgold
+resmed,,office properties income trust
+apigee,,reata pharmaceuticals
+sun communities,,ameris bancorp
+impinj,,lakeland bancorp
+sanmina,,village farms international
+cbiz,,pareteum
+everbridge,,rattler midstream lp
+the trade desk,,sunworks
+resolute energy,,amag pharmaceuticals
+energy recovery,,dsp group
+58 com,,turning point therapeutics
+credit suisse group,,mercer international
+wci communities,,helios technologies
+capstar financial holdings,,energysolutions
+commvault systems,,united airlines holdings
+quanta services,,micron solutions
+apptio,,health insurance innovations
+chemtura,,newmont goldcorp
+align technology,,caredx
+verifone systems,,bancorp of new jersey
+medical properties trust,,phunware
+maxim integrated products,,phreesia
+store capital,,karuna therapeutics
+clovis oncology,,standard motor products
+coupa software,,horizon bancorp
+global blood therapeutics,,horizon global
+image sensing systems,,sundial growers
+versum materials,,business first bancshares
+team health holdings,,first bancshares
+ipic entertainment,,eagle point income
+generac holdings,,universal forest products
+infoblox,,avalara
+qualys,,total sa
+alnylam pharmaceuticals,,vermilion energy
+vanda pharmaceuticals,,sutter rock capital
+advanced disposal services,,bellus health
+pacific ethanol,,10x genomics
+camping world holdings,,krystal biotech
+allegiant travel,,palomar holdings
+maxlinear,,mayville engineering
+universal insurance holdings,,envision solar international
+hd supply holdings,,g1 therapeutics
+alliant energy,,corcept therapeutics
+martin marietta materials,,hbt financial
+retrophin,,tricida
+mammoth energy services,,galileo acquisition
+avid technology,,ready capital
+bnc bancorp,,cabaletta bio
+rlj entertainment,,j2 global
+ptc therapeutics,,biomx
+invitation homes,,brigham minerals
+hubspot,,twist bioscience
+adtran,,kura oncology
+ariad pharmaceuticals,,kaleyra
+scorpio tankers,,arqule
+edwards lifesciences,,sculptor capital management
+be aerospace,,xperi
+msg networks,,michaels companies
+duluth holdings,,nextcure
+acushnet holdings,,hyperdynamics
+zuora,,guidewire software
+gtt communications,,apollo investment
+cna financial,,guidance software
+sempra energy,,true religion apparel
+providence service,,cumberland pharmaceuticals
+conagra brands,,lodgenet interactive
+open text,,brightcove
+matador resources,,ziopharm oncology
+gigamon,,insight enterprises
+smart sand,,leapfrog enterprises
+abm industries,,tal international group
+regions financial new,,brainstorm cell therapeutics
+hortonworks,,parker drilling
+conduent,,tangoe
+kinsale capital group,,quicksilver resources
+texas industries,,berry petroleum
+six flags entertainment,,domtar
+sanchez energy,,gorman rupp
+brookfield asset management,,capital bancorp
+regency centers,,bazaarvoice
+dryships,,acco brands
+ingevity,,avalon rare metals
+fifth third bancorp,,asgn
+new york mortgage trust,,middlesex water
+pegasystems,,fuel systems solutions
+patterson companies,,sourcefire
+liberty interactive,,astex pharmaceuticals
+moxian,,trimas
+rsp permian,,mako surgical
+lmi aerospace,,zaza energy
+flowserve,,retail properties of america
+clarcor,,roundys
+criteo sa,,craft brew alliance
+worthington industries,,swisher hygiene
+neurocrine biosciences,,faro technologies
+kinross gold,,sequenom
+sears canada,,midstates petroleum
+therapeuticsmd,,access national
+mogu,,envivio
+insys therapeutics,,omega flex
+finisar,,orasure technologies
+kewaunee scientific,,fresh del monte produce
+keurig green mountain,,pembina pipeline
+dct industrial trust,,actuant
+bwx technologies,,speedway motorsports
+tetra tech,,harvest natural resources
+waste connections,,ironwood pharmaceuticals
+acorda therapeutics,,counterpath
+interdigital,,hhgregg
+gold reserve,,polyone
+array biopharma,,accuray
+kraft foods group,,bankunited
+invensense,,ligand pharmaceuticals
+sl green realty,,express scripts holding
+mulesoft,,kayak software
+okta,,antares pharma
+gulfport energy,,lufkin industries
+synergy pharmaceuticals,,eloqua
+badger meter,,titanium metals
+iconix brand group,,globus medical
+alamo group,,supermedia
+mindbody,,dex one
+royal gold,,blyth
+patterson uti energy,,durata therapeutics
+receptos,,saba software
+toro company,,lyondellbasell industries
+hudson technologies,,hecla mining
+exact sciences,,campus crest communities
+assurant,,national bank holdings
+basic energy services,,petroquest energy
+altaba,,rigel pharmaceuticals
+brookdale senior living,,kythera biopharmaceuticals
+dendreon,,lsb industries
+pacific continental,,procera networks
+gt advanced technologies,,cymer
+brooks automation,,prospect global resources
+msc industrial direct,,spartech
+advansix,,warnaco group
+quad graphics,,newtek business services
+wgl holdings,,arden group
+first horizon national,,lancaster colony
+diebold nixdorf,,exacttarget
+progress software,,sl industries
+novanta,,whitehorse finance
+colucid pharmaceuticals,,iridex
+cameco,,transact technologies
+jagged peak energy,,cheniere energy partners lp
+jeld wen holding,,ameristar casinos
+mercury systems,,natus medical
+tutor perini,,homestreet
+brinker international,,epocrates
+corecivic,,resources connection
+rev group,,molex
+ethan allen interiors,,acme packet
+lululemon athletica,,conceptus
+oclaro,,booz allen hamilton holding
+wisdomtree investments,,general american investors
+concur technologies,,function x
+mead johnson nutrition,,affymax
+skechers usa,,first internet bancorp
+wabash national,,excel trust
+bioverativ,,checkpoint systems
+gevo,,tempur sealy international
+snyders lance,,calgon carbon
+auxilio,,model n
+canada goose holdings,,kid brands
+hilton worldwide holdings,,aviv reit
+hamilton lane,,oil states international
+chevron new,,dex media
+westlake chemical,,first nbc bank holding
+laredo petroleum,,theravance
+mobileiron,,chuys holdings
+medidata solutions,,healthcare realty trust
+gardner denver,,american vanguard
+arista networks,,channeladvisor
+envision healthcare,,omthera pharmaceuticals
+stec,,stewart enterprises
+cgg,,colonial properties trust
+lexington realty trust,,rudolph technologies
+sound financial bancorp,,corporate resource services
+welbilt,,textura
+childrens place,,web com group
+madison square garden new,,rubicon minerals
+blueprint medicines,,cole real estate investments
+air methods,,vanguard health systems
+aurinia pharmaceuticals,,pzena investment management
+r1 rcm,,harris teeter supermarkets
+kcg holdings,,talos energy
+cullen frost bankers,,trius therapeutics
+insulet,,spreadtrum communications
+amber road,,chimera investment
+digital realty trust,,tearlab
+qiagen,,onconova therapeutics
+zs pharma,,oceaneering international
+liberty broadband,,columbia banking system
+medicines company,,bioamber
+mdu resources group,,yume
+allegheny technologies,,fox factory holding
+dominion diamond,,source capital
+hometown bankshares,,steinway musical instruments
+spdr gold trust,,cobalt international energy
+tenneco,,atlantic american
+syntel,,atmi
+alteryx,,alliance financial
+macerich,,thl credit senior loan fund
+voyager therapeutics,,himax technologies
+autoliv,,kadant
+just energy group,,tellabs
+american woodmark,,kona grill
+halozyme therapeutics,,vanguard index funds
+ring energy,,mavenir systems
+rlj lodging trust,,rubicon technology
+brighthouse financial,,rda microelectronics
+warrior met coal,,friendfinder networks
+dxc technology,,vince holding
+teradyne,,gold resource
+paratek pharmaceuticals,,crown media holdings
+cyrusone,,bre properties
+penn national gaming,,leidos holdings
+cara therapeutics,,capital senior living
+schneider national,,calamp
+john bean technologies,,nl industries
+straight path communications,,westport fuel systems
+hub group,,monsanto new
+genomic health,,gsi technology
+patrick industries,,micrel
+cadence bancorp,,limbach holdings
+cloudera,,stmicroelectronics
+meridian bioscience,,met pro
+usana health sciences,,strategic education
+pc connection,,saratoga investment
+luminex,,vuzix
+novo nordisk as,,copsync
+akamai technologies,,celestica
+the meet group,,silver bay realty trust
+transcat,,dorman products
+antero midstream,,tobira therapeutics
+umpqua holdings,,jg wentworth
+vwr,,soliton
+avantor,,prophase labs
+quotient technology,,patriot national
+heron therapeutics,,sundance energy
+annaly capital management,,modine manufacturing
+amn healthcare services,,photronics
+gardner denver holdings,,a10 networks
+altimmune,,compass diversified holdings
+encore wire,,shiloh industries
+del taco restaurants,,healthequity
+osi systems,,nextdecade
+bebe stores,,bank7
+vistra energy,,hooper holmes
+veritone,,ryman hospitality properties
+siemens ag,,rocky brands
+discover financial services,,flushing financial
+flexion therapeutics,,telenav
+daseke,,tri pointe group
+immunomedics,,geeknet
+atwood oceanics,,susquehanna bancshares
+loxo oncology,,radisys
+g iii apparel group,,republic airways holdings
+keysight technologies,,wausau paper
+new age beverages,,sparton
+inovio pharmaceuticals,,nanoviricides
+coresite realty,,aim immunotech
+coherus biosciences,,relx
+teekay,,cerence
+sierra wireless,,allied healthcare products
+blue apron holdings,,neuronetics
+scientific games,,enzo biochem
+farmland partners,,opgen
+overhill farms,,zovio
+fabrinet,,biomerica
+spectranetics,,credit acceptance
+dova pharmaceuticals,,summit wireless technologies
+monogram residential trust,,international seaways
+worldpay,,applied dna sciences
+india fund,,peoples united financial
+gold standard ventures,,daxor
+sfx entertainment,,adma biologics
+terraform global,,polar power
+hms holdings,,service properties trust
+cynosure,,replay acquisition
+precipio,,rmg acquisition
+pdf solutions,,beacon roofing supply
+arcimoto,,centogene
+netease,,magnetek
+ceva,,stable road acquisition
+sg blocks,,christopher and banks
+sunrise senior living,,gabelli multimedia trust
+scripps networks interactive,,cornerstone therapeutics
+petiq,,coldwater creek
+hibbett sports,,realnetworks
+cutera,,united bancorp
+andeavor,,multimedia games holding
+first financial northwest,,coffee holding
+amc entertainment holdings,,full house resorts
+shutterstock,,pacific sunwear of
+national retail properties,,oge energy
+fuel tech,,reinsurance group of america
+myokardia,,new mountain finance
+petmed express,,transition therapeutics
+fibrogen,,johnson outdoors
+starwood waypoint homes,,re max holdings
+summit materials,,delta apparel
+granite construction,,profire energy
+sterling construction,,bind therapeutics
+ranger energy services,,houghton mifflin harcourt
+supernus pharmaceuticals,,cyberoptics
+agree realty,,navios maritime holdings
+kennametal,,cytec industries
+hooker furniture,,amalgamated bank
+omnicom group,,flow international
+camden property trust,,williams cos
+insmed,,blucora
+hci group,,catalyst pharmaceuticals
+performance food group,,roper technologies
+shire plc,,wrap technologies
+lattice semiconductor,,americold realty trust
+medallion financial,,crowdstrike holdings
+brixmor property group,,techtarget
+fulton financial,,american learning
+zagg,,dollar general new
+ubiquiti,,paragon commercial
+cohu,,srax
+healthcare trust of america,,transwitch
+hollyfrontier,,kmg chemicals
+cargurus,,ion geophysical
+springworks therapeutics,,nupathe
+zogenix,,realpage
+heartland express,,electromed
+l 3 technologies,,ciber
+collegium pharmaceutical,,theratechnologies
+rbc bearings,,anaren
+pinnacle entertainment,,heelys
+optical cable,,si financial group
+vectren,,ascent capital group
+luther burbank,,innovaro
+acme united,,thai fund
+service international,,amneal pharmaceuticals
+qudian,,calix
+rhythm pharmaceuticals,,mitcham industries
+sea limited,,medicinova
+lumentum holdings,,fx energy
+deltic timber,,iteris
+broadsoft,,mocon
+national vision holdings,,kingstone companies
+forescout technologies,,immucell
+virtus investment partners,,daegis
+group 1 automotive,,senomyx
+calatlantic group,,rignet
+heartland payment systems,,emagin
+red robin gourmet burgers,,exfo
+quality distribution,,icad
+inflarx,,formfactor
+corporate capital trust,,essa bancorp
+legacy acquisition,,cai international
+select medical holdings,,crexendo
+boingo wireless,,grainger ww
+sterling bancorp,,accelrys
+agilent technologies,,arotech
+cytokinetics,,otelco
+werner enterprises,,federal mogul holdings
+aspen technology,,scansource
+usa technologies,,banc of california
+byline bancorp,,comverse technology
+new residential investment,,vicon industries
+diplomat pharmacy,,athersys
+mgp ingredients,,citi trends
+five prime therapeutics,,sevcon
+ascena retail group,,weyco group
+barnes group,,turkish investment fund
+aerovironment,,cartesian
+curo group holdings,,prosperity bancshares
+granite point mortgage trust,,myrexis
+denali therapeutics,,global ship lease
+cboe global markets,,zhongpin
+riot blockchain,,advanced photonix
+darling ingredients,,lime energy
+sibanye stillwater,,sport chalet
+ttm technologies,,landauer
+maxar technologies,,dunkin brands group
+longfin,,littelfuse
+crown holdings,,pldt
+park city group,,navigant consulting
+smart global holdings,,westpac banking
+long blockchain,,supertex
+ignyta,,northstar realty finance
+net element,,isramco
+mercadolibre,,baker michael
+sangamo therapeutics,,ecb bancorp
+anaptysbio,,freeseas
+huya,,metalico
+luckin coffee,,widepoint
+ww international,,lumber liquidators holdings
+expeditors international,,dycom industries
+eldorado resorts,,iparty
+natera,,nanosphere
+axon enterprise,,systemax
+tilray,,socket mobile
+wyndham destinations,,genvec
+fair isaac,,century bancorp
+tandem diabetes care,,home bancorp
+viking therapeutics,,nova lifestyle
+hancock whitney,,community bankers trust
+far point acquisition,,kopin
+comcast new,,lawson products
+capital southwest,,forward industries
+mohawk industries,,taylor devices
+abiomed,,caseys general stores
+inseego,,symmetry medical
+vir biotechnology,,encompass health
+lee enterprises,,richmont mines
+renewable energy group,,charm communications
+independent bank group,,cryolife
+grand canyon education,,nxstage medical
+viacomcbs,,nelnet
+aimmune therapeutics,,capitalsource
+aradigm,,minco gold
+vornado realty trust,,wesbanco
+slack technologies,,cel sci
+purple innovation,,healthstream
+maxwell technologies,,clearone
+taylor morrison home,,caleres
+revolve group,,cubesmart
+taubman centers,,viavi solutions
+edgewell personal care,,pacific premier bancorp
+datadog,,capital bank financial
+cardlytics,,bp plc
+cloudflare,,intevac
+option care health,,polymet mining
+franco nevada,,mexico fund
+zscaler,,costamare
+sprint nextel,,uni pixel
+zoom technologies,,piper jaffray companies
+realreal,,ark restaurants
+starwood property trust,,rand logistics
+livongo health,,trustmark
+cryoport,,orion energy systems
+shockwave medical,,e commerce china dangdang
+monopar therapeutics,,inuvo
+quidel,,metro bancorp
+old dominion freight line,,insteel industries
+equity lifestyle properties,,first south bancorp
+equity commonwealth,,agilysys
+ares management,,intermolecular
+liquidity services,,merchants bancshares
+teleflex,,manulife financial
+invitae,,quinstreet
+duke realty,,vista gold
+energy focus,,spanish broadcasting system
+simply good foods,,akoustis technologies
+diamond s shipping,,amtrust financial services
+diamond eagle acquisition,,banro
+ashford hospitality trust,,general moly
+tcf financial,,pokertek
+dynatrace,,gw pharmaceuticals plc
+expedia group,,tal education group
+lithia motors,,echostar corporation
+regional management,,landstar system
+emergent biosolutions,,3sbio
+enphase energy,,westell technologies
+corteva,,marchex
+peloton interactive,,51job
+liveperson,,sypris solutions
+bausch health companies,,ing groep
+sprout social,,gramercy property trust
+american software,,enersys
+sorrento therapeutics,,onvia
+forrester research,,internet initiative japan
+gsx techedu,,xbiotech
+cortexyme,,audentes therapeutics
+meritage homes,,mexco energy
+amyris,,tucows
+lci industries,,enernoc
+kontoor brands,,youdao
+flex ltd,,memsic
+glu mobile,,mac gray
+douglas emmett,,hardinge
+manpowergroup,,adams express
+flir systems,,owl rock capital
+agenus,,bridgebio pharma
+cerus corporation,,box ships
+american states water,,akerna
+weis markets,,first midwest bancorp
+ashland global holdings,,axos financial
+molecular data,,voc energy trust
+old republic international,,perficient
+costar group,,guinness atkinson funds
+cannae holdings,,vascular solutions
+translate bio,,usa truck
+arbor realty trust,,acorn energy
+tortoise acquisition,,arrow financial
+agnc investment,,balchem
+skyline champion,,davidstea
+ii vi,,integrated silicon solution
+us global investors,,premier exhibitions
+clean energy fuels,,highwoods properties
+spartan energy acquisition,,builders firstsource
+churchill capital,,cover all technologies
+ameresco,,fisher communications
+health catalyst,,new energy systems group
+aphria,,dynavox
+azz,,fairpoint communications
+target hospitality,,zoltek companies
+medallia,,morgans hotel group
+pinduoduo,,entravision communications
+keurig dr pepper,,evolving systems
+collier creek holdings,,new york reit
+cnx resources,,silver eagle acquisition
+irhythm technologies,,spherix
+adaptive biotechnologies,,merit medical systems
+iqiyi,,connecture
+remark holdings,,pennant group
+principia biopharma,,solta medical
+cadence design systems,,rmr group
+momenta pharmaceuticals,,energy transfer lp
+ping identity holding,,caplease
+super micro computer,,suffolk bancorp
+fulgent genetics,,neurometrix
+malibu boats,,commercehub
+teladoc health,,speed commerce
+yamana gold,,spirit realty capital
+pagerduty,,usio
+catalent,,officemax new
+vaxart,,ideal power
+portland general electric,,winmark
+igm biosciences,,era group
+cnh industrial,,mogo
+arrowhead pharmaceuticals,,sajan
+anaplan,,ifresh
+healthpeak properties,,gee group
+green brick partners,,savara
+avaya holdings,,vapotherm
+virgin galactic holdings,,unitil
+insurance acquisition,,onespan
+varonis systems,,egain
+welltower,,bolt technology
+caci international,,franklin covey
+scholar rock holding,,pure cycle
+trupanion,,emmis communications
+microstrategy,,schulman a
+vici properties,,c 1 financial
+united microelectronics,,adtalem global education
+frequency therapeutics,,
+blink charging,,
+dpw holdings,,
+turtle beach,,
+atricure,,
+wec energy group,,
+gas natural,,
+silver spike acquisition,,
+lydall,,
+prevail therapeutics,,
+experience investment,,
+new providence acquisition,,
+truist financial,,
+marathon patent group,,
+ocugen,,
+suntrust banks,,
+rcs capital,,
+xoom,,
+lifeway foods,,
+bank of hawaii,,
+zafgen,,
+dht holdings,,
+nps pharmaceuticals,,
+mwi veterinary supply,,
+str holdings,,
+wolverine world wide,,
+habit restaurants,,
+ocwen financial,,
+ardmore shipping,,
+relypsa,,
+orbitz worldwide,,
+umb financial,,
+esterline technologies,,
+olympic steel,,
+rock tenn,,
+world gold trust,,
+empire state realty trust,,
+advent software,,
+sunopta,,
+dr pepper snapple group,,
+diana shipping,,
+star bulk carriers,,
+exelis,,
+urban edge properties,,
+columbia property trust,,
+mts systems,,
+achillion pharmaceuticals,,
+inovalon holdings,,
+rosetta resources,,
+fleetcor technologies,,
+bank of nova scotia,,
+stifel financial,,
+digital ally,,
+blackhawk network holdings,,
+sun life financial,,
+pacwest bancorp,,
+mattress firm holding,,
+mannkind,,
+avg technologies,,
+neustar,,
+dealertrack technologies,,
+maxpoint interactive,,
+comstock resources,,
+goodrich petroleum,,
+rti international metals,,
+vivus,,
+inogen,,
+rentrak,,
+redwood trust,,
+exco resources,,
+accelerate diagnostics,,
+carefusion,,
+goldman sachs bdc,,
+antero resources,,
+two harbors investment,,
+synthetic biologics,,
+central pacific financial,,
+endocyte,,
+franklin financial,,
+rogers communications,,
+vectrus,,
+carpenter technology,,
+pattern energy group,,
+federal realty investment trust,,
+hudson city bancorp,,
+dyax,,
+international game technology,,
+physicians realty trust,,
+spartannash,,
+atlantic power,,
+aurico gold,,
+bmc software,,
+party city holdco,,
+aduro biotech,,
+fusion io,,
+websense,,
+allete,,
+eventbrite,,
+nobilis health,,
+riverbed technology,,
+aerie pharmaceuticals,,
+qlik technologies,,
+global brokerage,,
+nidec,,
+omnivision technologies,,
+new senior investment group,,
+nu skin enterprises,,
+synageva biopharma,,
+infinity pharmaceuticals,,
+pinnacle west capital,,
+quiksilver,,
+quinta holdings,,
+spark networks,,
+enova international,,
+pure acquisition,,
+molycorp,,
+bank of kentucky financial,,
+talen energy,,
+outfront media,,
+t mobile us,,
+cms energy,,
+evolent health,,
+hcc insurance holdings,,
+boulder brands,,
+hovnanian enterprises,,
+gentherm,,
+enerplus,,
+ryland group,,
+ormat technologies,,
+vse,,
+varian medical systems,,
+qep resources,,
+mks instruments,,
+entegris,,
+meru networks,,
+glaukos,,
+milacron holdings,,
+stantec,,
+appfolio,,
+gener8 maritime,,
+newpark resources,,
+zix,,
+topbuild,,
+green plains,,
+cablevision systems,,
+opus bank,,
+tarena international,,
+overseas shipholding group,,
+anthera pharmaceuticals,,
+thoratec,,
+command security,,
+national fuel gas,,
+freightcar america,,
+american railcar industries,,
+pearson plc,,
+radiant logistics,,
+honeywell international,,
+nantkwest,,
+key energy services,,
+vantage drilling,,
+ellington financial,,
+thl credit,,
+teco energy,,
+medassets,,
+quorum health,,
+uniqure,,
+boot barn holdings,,
+consolidated graphics,,
+endologix,,
+haynes international,,
+cdk global,,
+state national companies,,
+houlihan lokey,,
+intrepid potash,,
+karyopharm therapeutics,,
+calamos asset management,,
+klx,,
+webster financial,,
+dot hill systems,,
+epizyme,,
+plx technology,,
+cheetah mobile,,
+lannett,,
+crh medical,,
+aeterna zentaris,,
+methode electronics,,
+tetraphase pharmaceuticals,,
+immunic,,
+pfenex,,
+echo global logistics,,
+euronav,,
+solera holdings,,
+ingredion,,
+adept technology,,
+sirona dental systems,,
+t rowe price group,,
+regenxbio,,
+vale sa,,
+ldr holding,,
+biomed realty trust,,
+nevro,,
+stillwater mining,,
+spartan motors,,
+verisk analytics,,
+ani pharmaceuticals,,
+carbo ceramics,,
+arcbest,,
+uti worldwide,,
+cpi card group,,
+kennedy wilson holdings,,
+benchmark electronics,,
+proto labs,,
+power integrations,,
+youku tudou,,
+fifth street asset management,,
+uil holdings,,
+natural health trends,,
+dimension therapeutics,,
+american farmland company,,
+lm funding america,,
+dolby laboratories,,
+teligent,,
+piedmont natural gas,,
+care capital properties,,
+aac holdings,,
+lennox international,,
+anavex life sciences,,
+metaldyne performance group,,
+biotelemetry,,
+semgroup,,
+fuling global,,
+wright medical group,,
+associated capital group,,
+sally beauty holdings,,
+seritage growth properties,,
+blackbaud,,
+atara biotherapeutics,,
+verso,,
+intl fcstone,,
+tillys,,
+cytosorbents,,
+peak resorts,,
+verastem,,
+kalobios pharmaceuticals,,
+adeptus health,,
+crescent point energy,,
+erin energy,,
+convergys,,
+world acceptance,,
+cec entertainment,,
+konami,,
+advanced emissions solutions,,
+xoma,,
+galectin therapeutics,,
+cubist pharmaceuticals,,
+perceptron,,
+emerald oil,,
+crosstex energy,,
+ep energy,,
+seaspan,,
+au optronics,,
+robert half international,,
+advantest,,
+fiat chrysler automobiles,,
+methanex,,
+mrc global,,
+fairway group holdings,,
+ftd companies,,
+concert pharmaceuticals,,
+eagle pharmaceuticals,,
+nephrogenex,,
+cadence pharmaceuticals,,
+wellcare health plans,,
+valmont industries,,
+graham holdings,,
+logmein,,
+northwest pipe,,
+triquint semiconductor,,
+intermune,,
+anika therapeutics,,
+nii holdings,,
+skullcandy,,
+ballard power systems,,
+regal beloit,,
+powersecure international,,
+capstone turbine,,
+uqm technologies,,
+raven industries,,
+caesars acquisition,,
+staar surgical,,
+measurement specialties,,
+q 2 holdings,,
+tpg specialty lending,,
+borderfree,,
+wabco holdings,,
+square 1 financial,,
+trinet group,,
+aerohive networks,,
+energous,,
+idera pharmaceuticals,,
+windstream holdings,,
+korea fund,,
+corium international,,
+questcor pharmaceuticals,,
+carriage services,,
+hain celestial group,,
+euronet worldwide,,
+celldex therapeutics,,
+spectrum pharmaceuticals,,
+svb financial group,,
+ntt docomo,,
+lombard medical,,
+approach resources,,
+jive software,,
+aldeyra therapeutics,,
+electronics for imaging,,
+rackspace hosting,,
+examworks group,,
+alcentra capital,,
+rex energy,,
+heritage insurance holdings,,
+heritage financial,,
+finjan holdings,,
+protective life,,
+advanced energy industries,,
+everbank financial,,
+hittite microwave,,
+orexigen therapeutics,,
+albany molecular research,,
+american dg energy,,
+universal corporation,,
+tw telecom,,
+violin memory,,
+talisman energy,,
+rockwood holdings,,
+tibco software,,
+bally technologies,,
+parkervision,,
+rpx,,
+triangle petroleum,,
+timken company,,
+jason industries,,
+timkensteel,,
+vitacost com,,
+american campus communities,,
+education realty trust,,
+unum group,,
+chesapeake lodging trust,,
+radian group,,
+auxilium pharmaceuticals,,
+asml holding,,
+magellan health,,
+cys investments,,
+matthews international,,
+ctc media,,
+gentiva health services,,
+wp carey,,
+neogen,,
+advanced drainage systems,,
+hertz global holdings,,
+contrafect,,
+coventry health care,,
+journal communications,,
+california water service group,,
+lions gate entertainment,,
+onyx pharmaceuticals,,
+shaw communications,,
+james river coal,,
+silver spring networks,,
+international rectifier,,
+asbury automotive group,,
+burger king worldwide,,
+pharmerica,,
+cumulus media,,
+northeast bank,,
+pixelworks,,
+taminco,,
+sonoco products,,
+aviva plc,,
+globe specialty metals,,
+green bancorp,,
+civitas solutions,,
+eagle bulk shipping,,
+fibrocell science,,
+cf industries holdings,,
+medley management,,
+yodlee,,
+standard register,,
+athlon energy,,
+agile therapeutics,,
+franks international,,
+xcerra,,
+eagle point credit,,
+rush enterprises,,
+silicon motion technology,,
+mol global,,
+kindred healthcare,,
+map pharmaceuticals,,
+bjs restaurants,,
+first financial service,,
+sap se,,
+national holdings,,
+first majestic silver,,
+mueller industries,,
+flotek industries,,
+sientra,,
+aegerion pharmaceuticals,,
+covance,,
+legacy reserves,,
+fei company,,
+realogy holdings,,
+global eagle entertainment,,
+paramount group,,
+forest oil,,
+investors title,,
+tanger factory outlet centers,,
+halcon resources,,
+spansion,,
+cipher pharmaceuticals,,
+lasalle hotel properties,,
+avalon holdings,,
+warren resources,,
+investors real estate trust,,
+second sight medical products,,
+xenoport,,
+ablynx,,
+newmark group,,
+fte networks,,
+moneygram international,,
+liberty oilfield services,,
+alder biopharmaceuticals,,
+iridium communications,,
+twin disc,,
+callidus software,,
+trex company,,
+greif,,
+bon ton stores,,
+dine brands global,,
+farmmi,,
+cigna new,,
+golden entertainment,,
+sp plus,,
+bonanza creek energy,,
+yeti holdings,,
+bilibili,,
+mvb financial,,
+alkermes plc,,
+revance therapeutics,,
+iqvia holdings,,
+smartsheet,,
+lakeland financial,,
+jacobs engineering group,,
+american superconductor,,
+abaxis,,
+jounce therapeutics,,
+pluralsight,,
+livexlive media,,
+wabtec,,
+greensky,,
+watsco,,
+movado group,,
+deutsche bank ag,,
+madrigal pharmaceuticals,,
+genprex,,
+casa systems,,
+asm international,,
+cronos group,,
+performance technologies,,
+integer holdings,,
+us xpress enterprises,,
+charah solutions,,
+optinose,,
+naked brand group,,
+super league gaming,,
+trustco bank,,
+cui global,,
+transdigm group,,
+brightview holdings,,
+everquote,,
+installed building products,,
+bank ozk,,
+ipg photonics,,
+zimmer biomet holdings,,
+tahoe resources,,
+arlo technologies,,
+wheaton precious metals,,
+intersect ent,,
+virtra,,
+bank of princeton,,
+community bank system,,
+liquidia technologies,,
+svmk,,
+xrs,,
+uniti group,,
+kemet,,
+transenterix,,
+unity biotechnology,,
+front yard residential,,
+guardant health,,
+armo biosciences,,
+penney jc,,
+sendgrid,,
+niu technologies,,
+mirati therapeutics,,
+valley financial,,
+jbg smith properties,,
+elanco animal health,,
+src energy,,
+athenex,,
+qurate retail,,
+autohome,,
+nektar therapeutics,,
+tpi composites,,
+first merchants,,
+douglas dynamics,,
+si bone,,
+kar auction services,,
+information services group,,
+tivity health,,
+rue21,,
+american finance trust,,
+ladder capital,,
+one stop systems,,
+ofs credit,,
+qutoutiao,,
+research frontiers,,
+element solutions,,
+om group,,
+evolus,,
+covetrus,,
+astronics,,
+east west bancorp,,
+avedro,,
+jack the box,,
+immune design,,
+time warner new,,
+seabridge gold,,
+codexis,,
+ngm biopharmaceuticals,,
+silk road medical,,
+world fuel services,,
+tradeweb markets,,
+leo holdings,,
+limoneira,,
+forterra,,
+coca cola consolidated,,
+iamgold,,
+office properties income trust,,
+reata pharmaceuticals,,
+ameris bancorp,,
+bankwell financial group,,
+lakeland bancorp,,
+village farms international,,
+pareteum,,
+rattler midstream lp,,
+texas pacific land trust,,
+conmed,,
+sunworks,,
+amag pharmaceuticals,,
+dsp group,,
+turning point therapeutics,,
+covanta holding,,
+ssr mining,,
+mercer international,,
+helios technologies,,
+energysolutions,,
+united airlines holdings,,
+micron solutions,,
+health insurance innovations,,
+l3harris technologies,,
+newmont goldcorp,,
+franklin financial services,,
+caredx,,
+bancorp of new jersey,,
+phunware,,
+phreesia,,
+karuna therapeutics,,
+standard motor products,,
+horizon bancorp,,
+horizon global,,
+sundial growers,,
+amtd international,,
+business first bancshares,,
+first bancshares,,
+eagle point income,,
+angi homeservices,,
+universal forest products,,
+avalara,,
+total sa,,
+vermilion energy,,
+sutter rock capital,,
+bellus health,,
+10x genomics,,
+pace holdings,,
+krystal biotech,,
+exagen,,
+digital turbine,,
+palomar holdings,,
+mayville engineering,,
+envision solar international,,
+g1 therapeutics,,
+corcept therapeutics,,
+prudential plc,,
+hbt financial,,
+tricida,,
+galileo acquisition,,
+ready capital,,
+garrett motion,,
+liberty property trust,,
+cabaletta bio,,
+columbia sportswear company,,
+j2 global,,
+biomx,,
+iberiabank,,
+juniper industrial holdings,,
+hersha hospitality trust,,
+progyny,,
+brigham minerals,,
+twist bioscience,,
+kura oncology,,
+kaleyra,,
+hf foods group,,
+synthorx,,
+arqule,,
+sculptor capital management,,
+xperi,,
+michaels companies,,
+kodiak sciences,,
+nextcure,,
+hyperdynamics,,
+guidewire software,,
+nomura holdings,,
+digital river,,
+apollo investment,,
+guidance software,,
+true religion apparel,,
+cumberland pharmaceuticals,,
+lodgenet interactive,,
+amtech systems,,
+brightcove,,
+ziopharm oncology,,
+insight enterprises,,
+leapfrog enterprises,,
+tal international group,,
+brainstorm cell therapeutics,,
+parker drilling,,
+kaydon,,
+tangoe,,
+quicksilver resources,,
+berry petroleum,,
+domtar,,
+gorman rupp,,
+associated estates realty,,
+capital bancorp,,
+mdc holdings,,
+bazaarvoice,,
+acco brands,,
+avalon rare metals,,
+united online,,
+asgn,,
+middlesex water,,
+fuel systems solutions,,
+sourcefire,,
+astex pharmaceuticals,,
+trimas,,
+vocera communications,,
+mako surgical,,
+first financial holdings,,
+zaza energy,,
+retail properties of america,,
+roundys,,
+craft brew alliance,,
+optimer pharmaceuticals,,
+kaiser aluminum,,
+swisher hygiene,,
+faro technologies,,
+vocus,,
+sequenom,,
+midstates petroleum,,
+access national,,
+envivio,,
+omega flex,,
+orasure technologies,,
+suncoke energy,,
+fresh del monte produce,,
+pebblebrook hotel trust,,
+pembina pipeline,,
+actuant,,
+speedway motorsports,,
+harvest natural resources,,
+health management associates,,
+ironwood pharmaceuticals,,
+pdl biopharma,,
+ambassadors group,,
+counterpath,,
+hhgregg,,
+polyone,,
+accuray,,
+bankunited,,
+healthcare services group,,
+ligand pharmaceuticals,,
+rentech,,
+express scripts holding,,
+kayak software,,
+ignite restaurant group,,
+geoeye,,
+national financial partners,,
+cno financial group,,
+e2open,,
+antares pharma,,
+lufkin industries,,
+eloqua,,
+viropharma,,
+titanium metals,,
+globus medical,,
+supermedia,,
+dex one,,
+blyth,,
+durata therapeutics,,
+saba software,,
+ares capital,,
+lyondellbasell industries,,
+hecla mining,,
+campus crest communities,,
+national bank holdings,,
+petroquest energy,,
+rigel pharmaceuticals,,
+wms industries,,
+garrison capital,,
+kythera biopharmaceuticals,,
+susser holdings,,
+lsb industries,,
+pss world medical,,
+procera networks,,
+cymer,,
+prospect global resources,,
+spartech,,
+warnaco group,,
+newtek business services,,
+arden group,,
+lancaster colony,,
+monroe capital,,
+exacttarget,,
+sl industries,,
+whitehorse finance,,
+iridex,,
+transact technologies,,
+cheniere energy partners lp,,
+northwest biotherapeutics,,
+sandridge permian trust,,
+ameristar casinos,,
+natus medical,,
+homestreet,,
+epocrates,,
+resources connection,,
+molex,,
+acme packet,,
+conceptus,,
+booz allen hamilton holding,,
+general american investors,,
+vonage holdings,,
+function x,,
+affymax,,
+american assets trust,,
+first internet bancorp,,
+shfl entertainment,,
+excel trust,,
+checkpoint systems,,
+tempur sealy international,,
+calgon carbon,,
+marin software,,
+model n,,
+kid brands,,
+aviv reit,,
+pros holdings,,
+oil states international,,
+dex media,,
+first nbc bank holding,,
+theravance,,
+chuys holdings,,
+healthcare realty trust,,
+ubs ag,,
+pacific coast oil trust,,
+sps commerce,,
+american vanguard,,
+channeladvisor,,
+omthera pharmaceuticals,,
+stewart enterprises,,
+colonial properties trust,,
+rudolph technologies,,
+encore capital group,,
+corporate resource services,,
+textura,,
+blackstone mortgage trust,,
+web com group,,
+rubicon minerals,,
+cole real estate investments,,
+vanguard health systems,,
+pzena investment management,,
+harris teeter supermarkets,,
+talos energy,,
+trius therapeutics,,
+spreadtrum communications,,
+chimera investment,,
+tearlab,,
+onconova therapeutics,,
+oceaneering international,,
+columbia banking system,,
+bioamber,,
+yume,,
+fox factory holding,,
+source capital,,
+steinway musical instruments,,
+cobalt international energy,,
+atlantic american,,
+atmi,,
+alliance financial,,
+thl credit senior loan fund,,
+himax technologies,,
+customers bancorp,,
+kadant,,
+tellabs,,
+kona grill,,
+coleman cable,,
+vanguard index funds,,
+mavenir systems,,
+rubicon technology,,
+rda microelectronics,,
+friendfinder networks,,
+santarus,,
+vince holding,,
+gold resource,,
+crown media holdings,,
+bre properties,,
+ezcorp,,
+leidos holdings,,
+aercap holdings,,
+capital senior living,,
+conatus pharmaceuticals,,
+responsys,,
+calamp,,
+nl industries,,
+westport fuel systems,,
+monsanto new,,
+gsi technology,,
+micrel,,
+chicos fas,,
+united insurance holdings,,
+limbach holdings,,
+stmicroelectronics,,
+met pro,,
+strategic education,,
+saratoga investment,,
+vuzix,,
+copsync,,
+gibraltar industries,,
+celestica,,
+halliburton company,,
+silver bay realty trust,,
+dorman products,,
+lexicon pharmaceuticals,,
+tobira therapeutics,,
+jg wentworth,,
+soliton,,
+prophase labs,,
+patriot national,,
+sundance energy,,
+modine manufacturing,,
+photronics,,
+a10 networks,,
+principal financial group,,
+old national bancorp,,
+invesco mortgage capital,,
+compass diversified holdings,,
+shiloh industries,,
+healthequity,,
+marinemax,,
+nextdecade,,
+dixie group,,
+ibio,,
+centerstate bank,,
+bank7,,
+hooper holmes,,
+ryman hospitality properties,,
+rocky brands,,
+flushing financial,,
+telenav,,
+tri pointe group,,
+geeknet,,
+susquehanna bancshares,,
+radisys,,
+republic airways holdings,,
+wausau paper,,
+sparton,,
+nanoviricides,,
+dyadic international,,
+aim immunotech,,
+relx,,
+cerence,,
+allied healthcare products,,
+neuronetics,,
+enzo biochem,,
+opgen,,
+zovio,,
+biomerica,,
+astrotech,,
+credit acceptance,,
+summit wireless technologies,,
+international seaways,,
+rci hospitality holdings,,
+applied dna sciences,,
+peoples united financial,,
+xpresspa group,,
+genius brands international,,
+daxor,,
+adma biologics,,
+polar power,,
+service properties trust,,
+replay acquisition,,
+rmg acquisition,,
+beacon roofing supply,,
+centogene,,
+magnetek,,
+stable road acquisition,,
+christopher and banks,,
+gabelli multimedia trust,,
+cornerstone therapeutics,,
+coldwater creek,,
+realnetworks,,
+united bancorp,,
+multimedia games holding,,
+coffee holding,,
+full house resorts,,
+korea electric power,,
+buckeye technologies,,
+pacific sunwear of,,
+oge energy,,
+reinsurance group of america,,
+new mountain finance,,
+maidenform brands,,
+transition therapeutics,,
+johnson outdoors,,
+re max holdings,,
+delta apparel,,
+profire energy,,
+bind therapeutics,,
+houghton mifflin harcourt,,
+cyberoptics,,
+navios maritime holdings,,
+cytec industries,,
+amalgamated bank,,
+flow international,,
+wsb holdings,,
+jakks pacific,,
+williams cos,,
+angiodynamics,,
+blucora,,
+catalyst pharmaceuticals,,
+asia pacific fund,,
+pnm resources,,
+roma financial,,
+roper technologies,,
+wrap technologies,,
+americold realty trust,,
+crowdstrike holdings,,
+techtarget,,
+american learning,,
+dollar general new,,
+china automotive systems,,
+tc energy,,
+paragon commercial,,
+srax,,
+transwitch,,
+kmg chemicals,,
+ion geophysical,,
+nupathe,,
+realpage,,
+electromed,,
+ciber,,
+theratechnologies,,
+anaren,,
+heelys,,
+si financial group,,
+ascent capital group,,
+european equity fund,,
+innovaro,,
+thai fund,,
+amneal pharmaceuticals,,
+calix,,
+mitcham industries,,
+medicinova,,
+fx energy,,
+iteris,,
+mocon,,
+kingstone companies,,
+pfsweb,,
+immucell,,
+daegis,,
+ur energy,,
+senomyx,,
+rignet,,
+syngenta ag,,
+emagin,,
+exfo,,
+shoretel,,
+imris,,
+mosys,,
+icad,,
+formfactor,,
+essa bancorp,,
+cai international,,
+crexendo,,
+grainger ww,,
+maxygen,,
+accelrys,,
+arotech,,
+otelco,,
+federal mogul holdings,,
+scansource,,
+adamis pharmaceuticals,,
+banc of california,,
+comverse technology,,
+vicon industries,,
+athersys,,
+cardinal financial,,
+united bancshares,,
+citi trends,,
+sevcon,,
+weyco group,,
+turkish investment fund,,
+cartesian,,
+prosperity bancshares,,
+myrexis,,
+global ship lease,,
+zhongpin,,
+privatebancorp,,
+advanced photonix,,
+lime energy,,
+sport chalet,,
+lifetime brands,,
+landauer,,
+dunkin brands group,,
+littelfuse,,
+pldt,,
+navigant consulting,,
+westpac banking,,
+supertex,,
+northstar realty finance,,
+uroplasty,,
+isramco,,
+baker michael,,
+ecb bancorp,,
+freeseas,,
+metalico,,
+widepoint,,
+lumber liquidators holdings,,
+central securities,,
+amedisys,,
+dycom industries,,
+iparty,,
+nanosphere,,
+systemax,,
+mcewen mining,,
+socket mobile,,
+firstmerit,,
+genvec,,
+century bancorp,,
+home bancorp,,
+nova lifestyle,,
+saul centers,,
+community bankers trust,,
+kopin,,
+lawson products,,
+bancfirst,,
+forward industries,,
+aquantia,,
+taylor devices,,
+bcb bancorp,,
+digitalglobe,,
+caseys general stores,,
+symmetry medical,,
+encompass health,,
+rio tinto plc,,
+commerce bancshares,,
+richmont mines,,
+charm communications,,
+api technologies,,
+cryolife,,
+nxstage medical,,
+nelnet,,
+capitalsource,,
+minco gold,,
+meta financial group,,
+wesbanco,,
+cel sci,,
+healthstream,,
+forestar group,,
+clearone,,
+caleres,,
+cubesmart,,
+viavi solutions,,
+sogou,,
+pacific premier bancorp,,
+barclays plc,,
+capital bank financial,,
+bp plc,,
+intevac,,
+polymet mining,,
+mexico fund,,
+costamare,,
+uni pixel,,
+piper jaffray companies,,
+ark restaurants,,
+rand logistics,,
+trustmark,,
+orion energy systems,,
+e commerce china dangdang,,
+inuvo,,
+metro bancorp,,
+insteel industries,,
+first south bancorp,,
+agilysys,,
+nordion,,
+intermolecular,,
+merchants bancshares,,
+sentinel energy services,,
+manulife financial,,
+quinstreet,,
+vista gold,,
+spanish broadcasting system,,
+akoustis technologies,,
+amtrust financial services,,
+banro,,
+general moly,,
+pokertek,,
+gw pharmaceuticals plc,,
+isoray,,
+tal education group,,
+equinor asa,,
+echostar corporation,,
+landstar system,,
+3sbio,,
+westell technologies,,
+marchex,,
+51job,,
+sypris solutions,,
+ing groep,,
+gramercy property trust,,
+enersys,,
+janus henderson group plc,,
+onvia,,
+proshares trust,,
+willdan group,,
+internet initiative japan,,
+magenta therapeutics,,
+axcelis technologies,,
+xbiotech,,
+audentes therapeutics,,
+mexco energy,,
+tucows,,
+enernoc,,
+youdao,,
+memsic,,
+mac gray,,
+hardinge,,
+adams express,,
+owl rock capital,,
+bridgebio pharma,,
+box ships,,
+akerna,,
+first midwest bancorp,,
+liberty expedia holdings,,
+axos financial,,
+transalta,,
+voc energy trust,,
+perficient,,
+guinness atkinson funds,,
+mannatech,,
+carnival plc,,
+vascular solutions,,
+usa truck,,
+national penn bancshares,,
+acorn energy,,
+arrow financial,,
+balchem,,
+davidstea,,
+integrated silicon solution,,
+premier exhibitions,,
+highwoods properties,,
+american eagle energy,,
+builders firstsource,,
+canadian imperial bank commerce,,
+cover all technologies,,
+kilroy realty,,
+fisher communications,,
+silicon image,,
+new energy systems group,,
+connectone bancorp,,
+dynavox,,
+fairpoint communications,,
+zoltek companies,,
+morgans hotel group,,
+entravision communications,,
+evolving systems,,
+new york reit,,
+silver eagle acquisition,,
+tubemogul,,
+spherix,,
+merit medical systems,,
+connecture,,
+pennant group,,
+oceanfirst financial,,
+solta medical,,
+rmr group,,
+energy transfer lp,,
+unilever plc,,
+caplease,,
+suffolk bancorp,,
+neurometrix,,
+commercehub,,
+speed commerce,,
+spirit realty capital,,
+usio,,
+officemax new,,
+aon plc,,
+red lion hotels,,
+ideal power,,
+winmark,,
+era group,,
+mogo,,
+sajan,,
+ifresh,,
+gee group,,
+savara,,
+vapotherm,,
+unitil,,
+onespan,,
+egain,,
+bolt technology,,
+franklin covey,,
+pure cycle,,
+emmis communications,,
+schulman a,,
+c 1 financial,,
+jaguar health,,
+adtalem global education,,
