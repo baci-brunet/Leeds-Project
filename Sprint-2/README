@@ -8,4 +8,8 @@ Task:
 Files:
 
 clean_firms.ipynb: This script does some preprocessing on the firm name data (I am testing with crsp) including the lowercasing of the firm names, removal of some special words, and joining of single character 'words' in firm names (e.g. 'A E P INDUSTRIES' --> 'aep industries' and 'Q R ENERGY L P' --> 'qr energy lp'). 
-raw_match.ipynb
+raw_match.ipynb: This script finds instances of CRSP firm names in the Raw Text entries of each corpora file (rather than in the spacy output).
+
+Output Files:
+
+A folder containing output from calling 'raw_match.ipynb' and includes the hits for every media network's corpora files from 2012-2020. It also contains the frequency of hits for each company per entry, the content sentences in which each firm name appears, the validated firm names for each entry, and the date of mention.
