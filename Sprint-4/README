@@ -2,6 +2,52 @@ Sprint-4 (2/14/22 -> 3/2/22)
 
 Tasks:
 
+1. Persons Recognition in the Raw Text Data using Spacy NER persons output and wiki_bigrams.csv. 
+2. wiki_bigrams.csv contains a list of bigrams along with a list of attributes associated with them. Merge the formatted spacy NER output with the bigrams in wiki_bigrams.csv to find the attributes associated with each bigram. 
+3. Find unigrams associated with each spacy bigram mentioned in the Raw Text
+4. Grab context in which each person was mentioned.
+
 Files:
 
+1. persons.ipynb: Find a list of unique bigrams from spacy NER output and merge with wiki_bigrams. Produce a set of unique bigrams per show along with all the attributes that are associated with those bigrams.
+2. persons_bigrams.ipynb: Find the frequency of mention of the bigrams in the text along with the context in which it appears. Also find every mention of unigrams associated with the bigrams and their frequency ofo mention.
+
 Output Files:
+
+../OutputPersons/PersonsBreakdown/{}.csv (NOT INCLUDED IN GOOGLE DRIVE FOLDER)
+
+Features/Columns:
+
+1. Title: Show title
+2. Persons Frequency: Frequency at which every Spacy-Recognized Person appears in the raw corpora text
+3. Bigrams of Interest: Bigrams kept after cross referencing Spacy-recognized people with wiki_bigrams.csv
+4. Breakdown by Unique Individual: Attribute breakdown of unique Spacy-Recognized people
+5. Breakdown by Mention of Individuals: Attribute breakdown of Spacy-Recognized Individuals by frequency of mention
+
+List of Attributes (included in search for breakdown): 'Female', 'Politician', 'American', 'Foreign', 'Republican', 'Democratic', 'Chief Executive Officer', 
+'Chief Financial Officer', 'Hedge Fund Manager', 'Investor', 'Billionaire', 'Lawyer'
+
+Note: An individual can fall under several of the attributes, so the combined sum of all the attributes does not equal the number 
+of spacy-recognized individuals or mentions.
+
+../OutputPersons/PersonsBigramsRaw/{}.csv (NOT INCLUDED IN GOOGLE DRIVE FOLDER)
+
+Features/Columns:
+
+1. Title: Show title
+2. Persons Frequency: Frequency at which every Spacy-Recognized Person appears in the raw corpora text
+3. Bigrams of Interest: Bigrams kept after cross referencing Spacy-recognized people with wiki_bigrams.csv
+4. Breakdown by Unique Individual: Attribute breakdown of unique Spacy-Recognized people
+5. Breakdown by Mention of Individuals: Attribute breakdown of Spacy-Recognized Individuals by frequency of mention
+6. RawText_preprocessed: Preprocessed Raw Text from Show
+7. References: List of every unigram associated with each full name from 'Bigrams of Interest' along with frequency of mention.
+
+
+../OutputPersons/PersonsBigramsFormatted/{}.csv
+
+Features/Columns:
+
+1. Title: Show title
+2. Unigram: Full name of individual
+3. Bigrams: Unigrams associated with the full name in 'Unigram' along with frequency of mention.
+4-18. Attributes From /PersonsBreakdown: Attributes associated with each Unigram.
