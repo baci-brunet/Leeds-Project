@@ -1,0 +1,11 @@
+Sprint-2 (10/22/21 -> 11/12/21)
+
+Task:
+
+1. Preprocess CRSP Firm Names to better suit them for matching. Remove 'inc', 'co', etc. and join names with single characters (i.e 'Q L ENERGY INC' -> 'QL ENERGY')
+2. Rather than using spacy, iterate through the raw text for each show on each news network from 2012-2021 and find instances/mentions of CRSP firm names. 
+
+Files:
+
+clean_firms.ipynb: This script does some preprocessing on the firm name data (I am testing with crsp) including the lowercasing of the firm names, removal of some special words, and joining of single character 'words' in firm names (e.g. 'A E P INDUSTRIES' --> 'aep industries' and 'Q R ENERGY L P' --> 'qr energy lp'). 
+raw_match.ipynb
