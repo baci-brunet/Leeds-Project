@@ -1,0 +1,14 @@
+Scripts-6 (3/24/22 -> Now)
+
+Tasks: 
+
+1. Identify commercials in the raw text with the aim of flagging them in place. This will help us to reduce false positives in our firm name recognition task and clean up the text for LDA Topic Indentification.
+
+Files:
+
+1. commercial_ngrams.ipynb: Assembles the top 500 20-grams by frequency for each year, for each news network from 2012-2021
+2. segment_commercials: Condenses the lists produced from commercial_ngrams.ipynb into cohesive text blocks. We will use these to search for and identify commercials in the raw text.
+
+Output Files:
+
+NA
