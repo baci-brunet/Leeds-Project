@@ -1,0 +1,21 @@
+Sprint-1 (9/17/21 -> 10/1/21):
+
+Tasks: 
+1. Organize output from spacy NER (Organizations). 
+2. Clean firm names in CRSP firm name file so as to have a term to match to spacy output (i.e. remove 'inc', 'co', etc. that are not present in the corpora text.
+3. Cross-reference spacy organization output with crsp firm name data to 'validate' entities picked up from NER.
+4. Optimize Spacy NER (text preprocessing, true-casing)
+5. Analysis of Hits (parcentage of the crsp firm names that appeared accross each media network from 2012-2021)
+
+Files:
+
+cleaned_firms.ipynb: This script does some preprocessing on the firm name data (I am testing with crsp) including the lowercasing of the firm names, removal of some special words, and joining of single character 'words' in firm names (e.g. 'A E P INDUSTRIES' --> 'aep industries' and 'Q R ENERGY L P' --> 'qr energy lp'). 
+
+spacy_match.ipynb: This script iterates through all META.NER and CORPORA data files and searches for matches between Spacy Organization Data and Firm Names (testing with crsp only). It then find the frequency at which each entity that matched appeared in the corpora. Exports to new file with URL, HITS, and HITS FREQUENCY.
+
+data_exploration.ipynb: This script is set up to be run on one file at a time. It includes everything done to match firm name data to spacy organization data from start to finish including preprocessing, merging, matching, finding frequency of each match and exporting to a new file.
+
+Output Files:
+
+A folder containing output from calling 'match_data.ipynb' and includes the hits for every media network's corpora files from 2012-2021. Naming convention is 'NETWORK/YEAR_hits.csv'. Will be used for analysis of match data. This folder also contains the outputfile from 'cleaned_firms.ipynb' named 'cleaned_firms.xlsx' that contains the preprocessed firm name data (For crsp firms only).
+
