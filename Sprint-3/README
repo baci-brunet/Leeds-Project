@@ -1,1 +1,18 @@
-Sprint-3 
+Sprint-3 (11/14/21 -> 1/24/22)
+
+Task:
+
+1. Compare the output from each of the matching methods (Spacy and Raw Matching).
+2. Analyse the subset of matches in the RawMatch that are not unique firm names so we can validate them. For instance the company 'Apple' can be confused for the fruit.
+
+Files:
+
+1. context_words.ipynb: Iterates through the output files (i.e. /Output, /OutputRaw) and pulls the context sentence(s) in which each of the matched firm names appear. Saves each output file with added context.
+2. compare_matches.ipynb: Compares the firm names that were found in 'raw_match' (/OutputRaw) to the firm names found in the spacy output -- 'match_data' (/Output). Shows that we found ~3x more firm names with the raw_match (in /OutputRaw) than in spacy match (/Output). Of the firm names that appeared in /OutputRaw but did not appear in /Output, 67.4% of them were bigrams (two-word firm names). SEE 'firm_comp.csv' for a list of the firm names that appear in each file.
+3. firm_dict.ipynb: Assembles a list of unigram firm names accross all /OutputRaw fils that double as english words. These are the unigram firm names we definetly need to validate using context sentences (or remove alltogether).
+4. validate_firms.ipynb: Iterates through every output file in /OutputRaw and validates every firm name that does not appear in the list produced by firm_dict.ipynb (can potentially filter out more firm names if we please. This script also grabs the Date when each of the validated firm names were mentioned and saves everything.
+
+Output Files:
+
+firm_comp.csv: A CSV file containing the unique firm names from both matching methods as well as a spillover list of the firms that appear in the RawMatch but not the Spacy match.
+firm_comparison.xslx: A CSV file containing the unique firm names from both matching methods AFTER removing firm names that could be confused for something else in context (i.e. if they double as english words)
